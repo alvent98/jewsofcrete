@@ -354,7 +354,7 @@ function manageMultimediaPage() {
   
   $uiGallery.empty();
 
-  $.getJSON(config.api_server + "/getMultimedia"+languageSuffix+".json", {
+  $.getJSON(config.api_server + "getMultimedia"+languageSuffix+".json", {
     language: languageSuffix,
   })
 
