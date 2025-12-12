@@ -14,7 +14,7 @@ var config = {
   pathOfMultimedia: "./rsc/multimedia/original/", // The path where the original multimedia files are available
   pathOfSmallImages: "./rsc/multimedia/small/", // The path where the images for the popups and the left panel are available
   pathOfThumbnailImages: "./rsc/multimedia/thumbnails/", // The path where the images for the thumbnails are available
-  api_server: ".",
+  api_server: "",
   sliderMapOptions: {
     displayList: false,
     intervalDuration: 5000,
@@ -692,7 +692,7 @@ function printBuildingsperPeriod(period, map) {
     }
   }
 
-  $.getJSON(config.api_server + "../getBuildings_new_"+period+".json", {})
+  $.getJSON(config.api_server + "getBuildings_new_"+period+".json", {})
 
   .fail(function (err) {
     $("#uiMapLPDPSelectPersonPanel").append(
@@ -1036,7 +1036,7 @@ $(function () {
 
     // Add persons into the selector
 
-    $.getJSON(config.api_server + "../getPersons"+languageSuffix+".json", {
+    $.getJSON(config.api_server + "getPersons"+languageSuffix+".json", {
       language: languageSuffix,
     })
 
