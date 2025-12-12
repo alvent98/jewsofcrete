@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<!--
+ JEWS OF CRETE
+
+Map's Page
+
+v 20240229aEL
+-->
+
+<html>
+  <head>
+    <title>Εβραίοι Της Κρήτης - Χαρτογραφία</title>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="jocCurrentPage" content="indexMap" />
+    <meta name="jocLanguage" content="el" />
+    <link rel="icon" type="image/x-icon" href="/rsc/icons/favicon.png" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:300,400,600,700,800&amp;subset=greek"
+      rel="stylesheet"
+    />
+
+    <!-- JQUERY & UI -->
+    <script
+      src="https://code.jquery.com/jquery-3.6.4.min.js"
+      integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"
+      integrity="sha256-lSjKY0/srUM9BE3dPm+c4fBo1dky2v27Gdjm2uoZaL0="
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- PG SLIDER -->
+    <script src="./scripts/pgwslider.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="./css/pgwslider.min.css" />
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script src="./scripts/jewsOfCrete.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="./css/jewsOfCrete.css" />
+  </head>
+  <body>
+    <!-- <div id="dialog" style="display:none;">
+      <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+    </div>
+     -->
+    <div id="uiNavigatorOuter"></div>
+
+    <div id="uiScreenContainer">
+      <div id="uiContentContainer">
+
+        <div id="uiMainMapContainer">
+          <div id="uiMapLeftPanel">
+            <div id="uiMapLPMultimedia" class="uiMultimediaSlider">
+              <ul id="uiMapLPMultimediaItemSliderPGW" class="pgwSlider">
+                <li id="uiMapLPMultimediaItemSliderPGWlist">
+                  <img
+                    src="./rsc/multimedia/small/Xania_evraiki_perioxi.jpg"
+                    alt="Η Εικόνα Λείπει!"
+                    data-description=""
+                    class="uiMapLPMultimediaItemSliderPGWimg"
+                  />
+                  <span><h5>Άποψη της εβραϊκής γειτονιάς στα Χανιά <br>(Πηγή: Εβραϊκο Μουσείο Ελλάδας)</h5></span>
+                </li>
+              </ul>
+            </div>
+
+            <div id="uiMapLPData">
+              <div id="uiMapLPDPSelectPersonPanel" class="uiMapLPDataPanel">
+                <div id="uiMapLPFilters"></div>
+                <li id="uiMapLPDPPersonsList"></li>
+              </div>
+
+              <div id="uiMapLPDPPersonalDataPanel" class="uiMapLPDataPanel">
+                <div id="uiMapPDPPPersonalDataPanelPersonDetails">
+                  <div id="uiMapPDPPPersonalDataPanelPersonDetailsFlex">
+                    <div id="uiMapPDPPPersonalDataPanelPersonDetailsFlexClose">
+                      X
+                    </div>
+                    <p></p>
+                    <div
+                      id="uiMapLPLastnameLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Επίθετο
+                    </div>
+                    <div
+                      id="uiMapLPLastnames"
+                      class="uiMapLPLastnames uiMapLPPersonalDetails"
+                    ></div>
+                    <div
+                      id="uiMapLPFirstnamesLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Όνομα
+                    </div>
+                    <div
+                      id="uiMapLPFirstname"
+                      class="uiMapLPFirstname uiMapLPPersonalDetails"
+                    ></div>
+                    <div
+                      id="uiMapLPBirthLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Γέννηση
+                    </div>
+                    <div
+                      id="uiMapLPBirth"
+                      class="uiMapLPBirth uiMapLPPersonalDetails"
+                    ></div>
+                    <div
+                      id="uiMapLPDeathLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Θάνατος
+                    </div>
+                    <div
+                      id="uiMapLPDeath"
+                      class="uiMapLPDeath uiMapLPPersonalDetails"
+                    ></div>
+
+                    <div
+                      id="uiMapLPOccupationsLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Απασχόληση
+                    </div>
+                    <div
+                      id="uiMapLPOccupations"
+                      class="uiMapLPOccupations uiMapLPPersonalDetails"
+                    ></div>
+                    <div
+                      id="uiMapLPCitizenshipsLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Υπηκοότητα
+                    </div>
+                    <div
+                      id="uiMapLPCitizenships"
+                      class="uiMapLPCitizenships uiMapLPPersonalDetails"
+                    ></div>
+
+                    <div
+                    id="uiMapLPAddressesLabel"
+                    class="uiMapLPPersonalDetailsLabel"
+                  >
+                    Διεύθυνση
+                  </div>
+                  <div
+                    id="uiMapLPAddresses"
+                    class="uiMapLPAddresses uiMapLPPersonalDetails"
+                  ></div>
+                  <div
+                      id="uiMapLPRelatedFamiliesLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Οικογένειες
+                    </div>
+                    <div
+                      id="uiMapLPRelatedFamilies"
+                      class="uiMapLPRelatedFamilies uiMapLPPersonalDetails"
+                    ></div>
+                    <div
+                      id="uiMapLPPublicCommentsLabel"
+                      class="uiMapLPPersonalDetailsLabel"
+                    >
+                      Σχόλια
+                    </div>
+                    <div
+                      id="uiMapLPPublicComments"
+                      class="uiMapLPPublicComments uiMapLPPersonalDetails"
+                    ></div>
+                    <!-- <div id="uiMapLPMultimediaRelations">
+                      <img
+                        id="uiMapLPMultimediaRelationsMultimediaIconImg"
+                        src="./rsc/icons/photo-camera.png"
+                        alt="Icon is missing!"
+                      />
+                      <img
+                        id="uiMapLPMultimediaRelationsGraphIconImg"
+                        src="./rsc/icons/graph.png"
+                        alt="Icon is missing!"
+                      />
+                    </div> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div id="mainMap"></div>
+
+          <div id="uiMapPeriodSelectorContainer">
+            <div
+              id="uiMapPeriodSelectorPeriod1"
+              class="mapPeriodOption"
+              data-period="1"
+            >
+              Τέλη 19ου Αιώνα - 1944
+            </div>
+            <div
+              id="uiMapPeriodSelectorPeriod2"
+              class="mapPeriodOption"
+              data-period="2"
+            >
+              1944 - 1999
+            </div>
+            <div
+              id="uiMapPeriodSelectorPeriod3"
+              class="mapPeriodOption"
+              data-period="3"
+            >
+              1999 - Σήμερα
+            </div>
+            <div class="content">
+              <div class="close-btn">
+                  &times
+              </div>
+              <h2 id="popup"></h2>
+          </div>
+          </div>
+          <div id="uiMapInfoContainer">
+
+            <img src="./rsc/icons/infoMap.png" />
+          </div>
+        </div>
+
+
+
+      </div>
+      <div id="uiFooterContainer">
+        <div id="uiFooterOuter"></div>
+      </div>
+    </div>
+  </body>
+</html>

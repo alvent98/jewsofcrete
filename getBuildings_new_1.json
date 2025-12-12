@@ -1,0 +1,1535 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.028838,
+                    35.515344
+                ]
+            },
+            "properties": {
+                "id": "B001",
+                "addressEL": "Αγίας Λαύρας 19",
+                "addressEN": "Ayias Lavras 19",
+                "personsEL": "Σάρρα Σεζάνα <br>Ραφαήλ Σεζάνας <br>Ρόζα (Ροζίνα) Φράγκο <br>",
+                "personsEN": "Sarra Sezana <br>Rafail Sezanas <br>Roza (Rozina) Frango <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.015656,
+                    35.517945
+                ]
+            },
+            "properties": {
+                "id": "B002",
+                "addressEL": "Αγγέλου 12",
+                "addressEN": "Angelou 12",
+                "personsEL": "Νισσήμ Μινέρβος <br>Πασχάλ Μινέρβος <br>Λέα Μινέρβου <br>",
+                "personsEN": "Nissim Minervos <br>Pashal Minervos <br>Lea Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026852,
+                    35.510137
+                ]
+            },
+            "properties": {
+                "id": "B003",
+                "addressEL": "Αντωνίου Γιάνναρη 12",
+                "addressEN": "Antoniou Yiannari 12",
+                "personsEL": "Λαρίκα Ισχακή <br>Σάρρα Ισχακή <br>Ηλίας Ισχακής <br>Μάρκος Ισχακής <br>Λούνα Σεζάνα <br>Σάρρα Σεζάνα <br>Μωυσής (Μωύς) Σεζάνας <br>Ραφαήλ Σεζάνας <br>Ρόζα (Ροζίνα) Φράγκο <br>",
+                "personsEN": "Larika Ishaki <br>Sarra Ishaki <br>Ilias Ishakis <br>Markos Ishakis <br>Louna Sezana <br>Sarra Sezana <br>Moisis (Mois) Sezanas <br>Rafail Sezanas <br>Roza (Rozina) Frango <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026844,
+                    35.509528
+                ]
+            },
+            "properties": {
+                "id": "B004",
+                "addressEL": "Αντωνίου Γιάνναρη 13",
+                "addressEN": "Antoniou Yiannari 13",
+                "personsEL": "Όλγα Σερένα <br>Μαίρη Σερένα <br>Αβραάμ Σερένας <br>Εστερίνα Σερένο <br>",
+                "personsEN": "Olga Serena <br>Meri Serena <br>Avraam Serenas <br>Esterina Sereno <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026797,
+                    35.509147
+                ]
+            },
+            "properties": {
+                "id": "B005",
+                "addressEL": "Αντωνίου Γιάνναρη 19",
+                "addressEN": "Antoniou Yiannari 19",
+                "personsEL": "Εμμανουήλ Κοέν <br>Ηλίας Κοέν <br>Ιακώβ Κοέν <br>Ματίλδη Κοέν <br>Ροβέρτος Κοέν <br>Στέλλα Μόλχο <br>Τζόγια Μόλχο <br>Ιακώβ Μόλχος <br>Σολομών Μόλχος <br>",
+                "personsEN": "Emmanouil Koen <br>Ilias Koen <br>Iakov Koen <br>Matildi Koen <br>Rovertos Koen <br>Stella Molho <br>Tzoyia Molho <br>Iakov Molhos <br>Solomon Molhos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.015225,
+                    35.517094
+                ]
+            },
+            "properties": {
+                "id": "B006",
+                "addressEL": "Βενέρη 5",
+                "addressEN": "Veneri 5",
+                "personsEL": "Μπουλίσα Ισχακή <br>Αβραάμ Ισχακής <br>Ισαάκ (Τζάκος) Ισχακής <br>Λεών Ιούδας (Γεχουντάς) Ισχακής <br>Μωυσής (Μωύς) Ισχακής <br>Σαμουήλ Ισχακής <br>Σολομών Ισχακής <br>",
+                "personsEN": "Boulisa Ishaki <br>Avraam Ishakis <br>Isaak (Tzakos) Ishakis <br>Leon Ioudas (Yehoundas) Ishakis <br>Moisis (Mois) Ishakis <br>Samouil Ishakis <br>Solomon Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.015211,
+                    35.517138
+                ]
+            },
+            "properties": {
+                "id": "B007",
+                "addressEL": "Βενέρη 13",
+                "addressEN": "Veneri 13",
+                "personsEL": "Ρεβέκκα Φλώρα Βεντούρη <br>Σιμχά Πολίτη <br>Ιωσήφ Πολίτης <br>Μάρκος Πολίτης <br>Ραφαήλ Πολίτης <br>Χρυσούλα Φόρτε <br>",
+                "personsEN": "Revekka Flora Ventouri <br>Simha Politi <br>Iosif Politis <br>Markos Politis <br>Rafail Politis <br>Hrisoula Forte <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.029581,
+                    35.514917
+                ]
+            },
+            "properties": {
+                "id": "B008",
+                "addressEL": "Βίκτωρος Ουγκώ 6",
+                "addressEN": "Viktoros Ougo 6",
+                "personsEL": "Ίρμα Κοέν <br>Εμμανουήλ Κοέν <br>Ζιζέλα Στάμο Κοέν <br>Ηλίας Κοέν <br>Μωυσής Κοέν <br>Νέλλη Κοέν <br>Εσθήρ Μηνιωνή <br>Βήττας Μηνιωνής <br>",
+                "personsEN": "Irma Koen <br>Emmanouil Koen <br>Zizela Stamo Koen <br>Ilias Koen <br>Moisis Koen <br>Nelli Koen <br>Esthir Minioni <br>Vittas Minionis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7998,
+                    35.466367
+                ]
+            },
+            "properties": {
+                "id": "B009",
+                "addressEL": "Βουκολιές",
+                "addressEN": "Voukolies",
+                "personsEL": "Άννα Εβλαγόν <br>Αλβέρτος Εβλαγόν <br>Λεών Ιούδας Εβλαγόν <br>Ρενέ Ρένα Εβλαγόν <br>Ρευκούλα Χασκέλ <br>",
+                "personsEN": "Anna Evlagon <br>Alvertos Evlagon <br>Leon Ioudas Evlagon <br>Rene Rena Evlagon <br>Refkoula Haskel <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.019969,
+                    35.515322
+                ]
+            },
+            "properties": {
+                "id": "B010",
+                "addressEL": "Γαβαλάδων 50",
+                "addressEN": "Gavaladon 50",
+                "personsEL": "Ρεβέκκα Ελχάι <br>Σάρρα Ελχάι <br>Βίκτωρ Χαΐμ Ελχάις <br>Ισαάκ Ελχάις <br>",
+                "personsEN": "Revekka Elhai <br>Sarra Elhai <br>Viktor Haim Elhais <br>Isaak Elhais <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.027463,
+                    35.514859
+                ]
+            },
+            "properties": {
+                "id": "B011",
+                "addressEL": "Έβανς 9",
+                "addressEN": "Evans 9",
+                "personsEL": "Αβραάμ Μινέρβος <br>Ελβίρα (Ελβορή) Μινέρβου <br>Ραχήλ Μινέρβου <br>",
+                "personsEN": "Avraam Minervos <br>Elvira (Elvori) Minervou <br>Rahil Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.039873,
+                    35.518259
+                ]
+            },
+            "properties": {
+                "id": "B012",
+                "addressEL": "Χαλέπας",
+                "addressEN": "Halepas",
+                "personsEL": "Εστερίνα Σερένο <br>Νισσήμ Σερένος <br>",
+                "personsEN": "Esterina Sereno <br>Nissim Sereno <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026779,
+                    35.514532
+                ]
+            },
+            "properties": {
+                "id": "B013",
+                "addressEL": "Κεντρική 19",
+                "addressEN": "Kentriki 19",
+                "personsEL": "Αλβέρτος Αβραάμ Μινέρβος <br>Βικτώρια Μινέρβου <br>",
+                "personsEN": "Alvertos Avraam Minervos <br>Viktoria Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.028329,
+                    35.514744
+                ]
+            },
+            "properties": {
+                "id": "B014",
+                "addressEL": "Κεντρική 58",
+                "addressEN": "Kentriki 58",
+                "personsEL": "Σίμων Μινέρβος <br>Μαργαρίτα Μινέρβου <br>Σιμχά Εσθήρ Μινέρβου <br>",
+                "personsEN": "Simon Minervos <br>Margarita Minervou <br>Simha Esthir Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.029471,
+                    35.514968
+                ]
+            },
+            "properties": {
+                "id": "B015",
+                "addressEL": "Κεντρική 75",
+                "addressEN": "Kentriki 75",
+                "personsEL": "Ίρμα Κοέν <br>Εμμανουήλ Κοέν <br>Ζιζέλα Στάμο Κοέν <br>Ηλίας Κοέν <br>Μωυσής Κοέν <br>Νέλλη Κοέν <br>Ροβέρτος Χαΐμ Κοέν <br>Εσθήρ Μηνιωνή <br>Βήττας Μηνιωνής <br>",
+                "personsEN": "Irma Koen <br>Emmanouil Koen <br>Zizela Stamo Koen <br>Ilias Koen <br>Moisis Koen <br>Nelli Koen <br>Rovertos Haim Koen <br>Esthir Minioni <br>Vittas Minionis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.030355,
+                    35.515257
+                ]
+            },
+            "properties": {
+                "id": "B016",
+                "addressEL": "Κεντρική 97",
+                "addressEN": "Kentriki 97",
+                "personsEL": "Ροβέρτος Χαΐμ Κοέν <br>",
+                "personsEN": "Rovertos Haim Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017032,
+                    35.51638
+                ]
+            },
+            "properties": {
+                "id": "B018",
+                "addressEL": "Ζαμπελίου 33",
+                "addressEN": "Zabeliou 33",
+                "personsEL": "Ζαφείρα Λεβή <br>Ισαάκ Λεβής <br>Μωυσής Φερμών <br>Σουλτάνα Φερμών <br>",
+                "personsEN": "Zafira Levi <br>Isaak Levis <br>Moisis Fermon <br>Soultana Fermon <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016963,
+                    35.516394
+                ]
+            },
+            "properties": {
+                "id": "B019",
+                "addressEL": "Ζαμπελίου 35",
+                "addressEN": "Zabeliou 35",
+                "personsEL": "Αιμιλία Πολίτη <br>Ματαθίας Φραγκής <br>",
+                "personsEN": "Emilia Politi <br>Matathias Frangis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016998,
+                    35.516397
+                ]
+            },
+            "properties": {
+                "id": "B020",
+                "addressEL": "Ζαμπελίου 37",
+                "addressEN": "Zabeliou 37",
+                "personsEL": "Λέα Λεβή <br>Λέα Λεβή <br>Ιωσήφ Λεβής <br>Ματαθίας Λεβής <br>Ματαθίας Λεβής <br>Ζίλντα Ευαγγελία Λουιζίδου <br>",
+                "personsEN": "Lea Levi <br>Lea Levi <br>Iosif Levis <br>Matathias Levis <br>Matathias Levis <br>Zilda Evangelia Louizidou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016257,
+                    35.51658
+                ]
+            },
+            "properties": {
+                "id": "B021",
+                "addressEL": "Ζαμπελίου 55",
+                "addressEN": "Zabeliou 55",
+                "personsEL": "Μωυσής Φερμών <br>Σουλτάνα Φερμών <br>",
+                "personsEN": "Moisis Fermon <br>Soultana Fermon <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.015841,
+                    35.517153
+                ]
+            },
+            "properties": {
+                "id": "B022",
+                "addressEL": "Θεοφάνους 13",
+                "addressEN": "Theofanous 13",
+                "personsEL": "Ρεβέκκα Φράγκο <br>Φερνάνδη Φράγκο <br>Δαβίδ Φράγκος <br>Σαμπατών (Σαβατών) Φράγκος <br>",
+                "personsEN": "Revekka Frango <br>Fernandi Frango <br>David Frangos <br>Sabaton (Savaton) Frangos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026832,
+                    35.510281
+                ]
+            },
+            "properties": {
+                "id": "B023",
+                "addressEL": "Κεντρική 97",
+                "addressEN": "Kentriki 97",
+                "personsEL": "Λαρίκα Ισχακή <br>Σάρρα Ισχακή <br>Ηλίας Ισχακής <br>Μάρκος Ισχακής <br>Λούνα Σεζάνα <br>Μωυσής (Μωύς) Σεζάνας <br>",
+                "personsEN": "Larika Ishaki <br>Sarra Ishaki <br>Ilias Ishakis <br>Markos Ishakis <br>Louna Sezana <br>Moisis (Mois) Sezanas <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.019328,
+                    35.516959
+                ]
+            },
+            "properties": {
+                "id": "B024",
+                "addressEL": "Κανεβάρω",
+                "addressEN": "Kanevaro",
+                "personsEL": "Ιακώβ Διέντες <br>",
+                "personsEN": "Iakov Dientes <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016941,
+                    35.515782
+                ]
+            },
+            "properties": {
+                "id": "B025",
+                "addressEL": "(Μεγάλης) Εβραϊκής",
+                "addressEN": "(Megalis) Evraikis",
+                "personsEL": "Ραφαήλ Αττίας <br>Ελίζα Δεπά <br>Μπουλίσα Διέντε <br>Αβραάμ Βεχώρ Εβλαγόν <br>Μπατσέβα (Μπαλσεβέτ) Εβλαγόν <br>Αλέγρα Λεβή <br>Σάρρα Λεβή <br>Μάρκος Λεβής <br>Θάλεια Φράγκο <br>Λέα Φράγκο <br>Μεριάμ Μαίρη Αβιγαδέ ή Αβιγαδώρ <br>Ματαθίας Αβιγαδές ή Αβιγαδώρ <br>", 
+                "personsEN": "Rafail Attias <br>Eliza Depa <br>Boulisa Diente <br>Avraam Vehor Evlagon <br>Batseva (Balsevet) Evlagon <br>Alegra Levi <br>Sarra Levi <br>Markos Levis <br>Thalia Frango <br>Lea Frango <br>Meriam Meri Avigade or Avigador <br>Matathias Avigades or Avigador <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017122,
+                    35.516352
+                ]
+            },
+            "properties": {
+                "id": "B026",
+                "addressEL": "Κονδυλάκη 2",
+                "addressEN": "Kondilaki 2",
+                "personsEL": "Σάρρα Διέντε <br>Σιμχά Διέντε <br>Βήττας Διέντες <br>Αβραάμ Κοέν <br>",
+                "personsEN": "Sarra Diente <br>Simha Diente <br>Vittas Dientes <br>Avraam Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017112,
+                    35.516341
+                ]
+            },
+            "properties": {
+                "id": "B027",
+                "addressEL": "Κονδυλάκη 4",
+                "addressEN": "Kondilaki 4",
+                "personsEL": "Σολομών Άκος <br>Ζεντίλα Κοέν <br>Ιακώβ Κοέν <br>Μωυσής Κοέν <br>Νέλλη Κοέν <br>Ρόζα Κοέν <br>",
+                "personsEN": "Solomon Akos <br>Zentila Koen <br>Iakov Koen <br>Moisis Koen <br>Nelli Koen <br>Roza Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017114,
+                    35.516333
+                ]
+            },
+            "properties": {
+                "id": "B028",
+                "addressEL": "Κονδυλάκη 5",
+                "addressEN": "Kondilaki 5",
+                "personsEL": "Δαβίδ Ναξών <br>Ισαάκ Ναξών <br>Καρή Ναξών <br>Ρίκα Ναξών <br>",
+                "personsEN": "David Naxon <br>Isaak Naxon <br>Kari Naxon <br>Rika Naxon <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017084,
+                    35.516288
+                ]
+            },
+            "properties": {
+                "id": "B029",
+                "addressEL": "Κονδυλάκη 6",
+                "addressEN": "Kondilaki 6",
+                "personsEL": "Μεντές Μπεσαντζής <br>Καίτη Όσμο <br>Στέλλα Όσμο <br>Νισσήμ Όσμος <br>Σολομών Χαΐμ Όσμος <br>",
+                "personsEN": "Mendes Besantzis <br>Keti Osmo <br>Stella Osmo <br>Nissim Osmos <br>Solomon Haim Osmos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017083,
+                    35.516275
+                ]
+            },
+            "properties": {
+                "id": "B030",
+                "addressEL": "Κονδυλάκη 8",
+                "addressEN": "Kondilaki 8",
+                "personsEL": "Ζαφείρα Τρέβεζα <br>Σολομών Τρέβεζας <br>Ρεβέκκα Φόρτη <br>",
+                "personsEN": "Zafira Treveza <br>Solomon Trevezas <br>Revekka Forti <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017076,
+                    35.516219
+                ]
+            },
+            "properties": {
+                "id": "B031",
+                "addressEL": "Κονδυλάκη 13",
+                "addressEN": "Kondilaki 13",
+                "personsEL": "Άννα Εβλαγόν <br>Αλβέρτος Εβλαγόν <br>Λεών Ιούδας Εβλαγόν <br>Ρενέ Ρένα Εβλαγόν <br>Ραχήλ Ισχακή <br>Αβραάμ Ισχακής <br>Ιουσούας Ισχακής <br>Ζαφείρα (Ζαφειρούλα,Φωφώ) Λεβή <br>Καίτη Σέτη Λεβή <br>Ιακώβ Λεβής <br>Αλέγρα Φράγκο <br>",
+                "personsEN": "Anna Evlagon <br>Alvertos Evlagon <br>Leon Ioudas Evlagon <br>Rene Rena Evlagon <br>Rahil Ishaki <br>Avraam Ishakis <br>Iousouas Ishakis <br>Zafira (Zafiroula, Fofo) Levi <br>Keti Seti Levi <br>Iakov Levis <br>Alegra Frango <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.01706,
+                    35.516205
+                ]
+            },
+            "properties": {
+                "id": "B032",
+                "addressEL": "Κονδυλάκη 14",
+                "addressEN": "Kondilaki 14",
+                "personsEL": "Άννα Ισχακή <br>Ραχήλ Ισχακή <br>Δανιήλ Ισχακής <br>Μάρκος Ισχακής <br>Νισσήμ Ισχακής <br>Μεριάμ Σκεναζή <br>",
+                "personsEN": "Anna Ishaki <br>Rahil Ishaki <br>Daniil Ishakis <br>Markos Ishakis <br>Nissim Ishakis <br>Meriam Skenazi <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017059,
+                    35.516171
+                ]
+            },
+            "properties": {
+                "id": "B033",
+                "addressEL": "Κονδυλάκη 15",
+                "addressEN": "Kondilaki 15",
+                "personsEL": "Αιμιλία Μόρδο <br>Ραφαήλ Μόρδος <br>Μπελα (Λίνα) Όσμο <br>Νίνα Σάρρα Όσμο <br>Ροζίνα Όσμο <br>Βίκτωρ Χαΐμ Όσμος <br>Δαβίδ Όσμος <br>",
+                "personsEN": "Emilia Mordo <br>Rafail Mordos <br>Bela (Lina) Osmo <br>Nina Sarra Osmo <br>Rozina Osmo <br>Viktor Haim Osmos <br>David Osmos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017038,
+                    35.516151
+                ]
+            },
+            "properties": {
+                "id": "B034",
+                "addressEL": "Κονδυλάκη 16",
+                "addressEN": "Kondilaki 16",
+                "personsEL": "Ρεβέκκα Φλώρα Βεντούρη <br>Σιμχά Πολίτη <br>Ιωσήφ Πολίτης <br>Μάρκος Πολίτης <br>Ρεβέκκα Φραγκή <br>Σταματία (Σταματούλα) Φραγκή <br>Ισαάκ Φραγκής <br>Ιωσήφ Φραγκής <br>Μάρκος Φραγκής <br>Ματαθίας Φραγκής <br>Ραφαήλ Φραγκής <br>Σίμων Φραγκής <br>Χρυσούλα Φόρτε <br>",
+                "personsEN": "Revekka Flora Ventouri <br>Simha Politi <br>Iosif Politis <br>Markos Politis <br>Revekka Frangi <br>Stamatia (Stamatoula) Frangi <br>Isaak Frangis <br>Iosif Frangis <br>Markos Frangis <br>Matathias Frangis <br>Rafail Frangis <br>Simon Frangis <br>Hrisoula Forte <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017006,
+                    35.516002
+                ]
+            },
+            "properties": {
+                "id": "B035",
+                "addressEL": "Κονδυλάκη 20",
+                "addressEN": "Kondilaki 20",
+                "personsEL": "Ελφρίδα (Φρίντα) Κοέν <br>Ιολάνδη (Γιολάντα) Κοέν <br>",
+                "personsEN": "Elfrida (Frida) Koen <br>Iolandi (Yiolanda) Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016988,
+                    35.515962
+                ]
+            },
+            "properties": {
+                "id": "B036",
+                "addressEL": "Κονδυλάκη 25",
+                "addressEN": "Kondilaki 25",
+                "personsEL": "Αιμιλία Άγγελ <br>Αλέγρα Ελιζαμπέτα Δεπά <br>Εσθήρ Ρένα Δεπά <br>Λιλίκα Ελίζα Δεπά <br>Σταματία Δεπά <br>Δαβίδ Δεπάς <br>Μωυσής Δεπάς <br>Χαΐμ Δεπάς <br>Σάρρα Φραγκή <br>Χρυσάνθη Χουσάντα Χαμπίμπ <br>",
+                "personsEN": "Emilia Angel <br>Alegra Elizabeta Depa <br>Esthir Rena Depa <br>Lilika Eliza Depa <br>Stamatia Depa <br>David Depas <br>Moisis Depas <br>Haim Depas <br>Sarra Frangi <br>Hrisanthi Housanda Habib <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016963,
+                    35.515876
+                ]
+            },
+            "properties": {
+                "id": "B037",
+                "addressEL": "Κονδυλάκη 27",
+                "addressEN": "Kondilaki 27",
+                "personsEL": "Ντόλτσα Ναόμι Γανή ή Γκανή <br>Πέρλα Γανή ή Γκανή <br>Ραχήλ Ντουντού Γανή ή Γκανή <br>Δαβίδ Γανής ή Γκανής <br>Ιωσήφ Γανής ή Γκανής <br>Ραφαήλ Γανής ή Γκανής <br>Σάββας Γανής ή Γκανής <br>Σαμουήλ Γανής ή Γκανής <br>Σολομών Μωυσής Σαούλ Γανής ή Γκανής <br>Σολομών Μωυσής Γανής ή Γκανής <br>",
+                "personsEN": "Doltsa Naomi Gani <br>Perla Gani <br>Rahil Doudou Gani <br>David Ganis <br>Iosif Ganis <br>Rafail Ganis <br>Savvas Ganis <br>Samouil Ganis <br>Solomon Moisis Saoul Ganis <br>Solomon Moisis Ganis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016976,
+                    35.51587
+                ]
+            },
+            "properties": {
+                "id": "B038",
+                "addressEL": "Κονδυλάκη 28",
+                "addressEN": "Kondilaki 28",
+                "personsEL": "Αλβέρτος Φερμών <br>Βικτώρια Φερμών <br>Ζαφείρα Φερμών <br>",
+                "personsEN": "Alvertos Fermon <br>Viktoria Fermon <br>Zafira Fermon <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016948,
+                    35.515825
+                ]
+            },
+            "properties": {
+                "id": "B039",
+                "addressEL": "Κονδυλάκη 29",
+                "addressEN": "Kondilaki 29",
+                "personsEL": "Εσθήρ Δεπά <br>Μάρκος Μαρδοχαίος Δεπάς <br>",
+                "personsEN": "Esthir Depa <br>Markos Mardoheos Depas <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016951,
+                    35.515755
+                ]
+            },
+            "properties": {
+                "id": "B040",
+                "addressEL": "Κονδυλάκη 31",
+                "addressEN": "Kondilaki 31",
+                "personsEL": "Εσθήρ (Στερίνα) Λεβή <br>Ματίλδη Λεβή <br>Μωυσής Λεβής <br>Νισσήμ Σίμων Λεβής <br>",
+                "personsEN": "Esthir (Sterina) Levi <br>Matildi Levi <br>Moisis Levis <br>Nissim Simon Levis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.01694,
+                    35.515707
+                ]
+            },
+            "properties": {
+                "id": "B041",
+                "addressEL": "Κονδυλάκη 33",
+                "addressEN": "Kondilaki 33",
+                "personsEL": "Ιουσούας Λεών <br>Ραχήλ Λεών <br>",
+                "personsEN": "Iousouas Leon <br>Rahil Leon <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016922,
+                    35.515648
+                ]
+            },
+            "properties": {
+                "id": "B042",
+                "addressEL": "Κονδυλάκη 35",
+                "addressEN": "Kondilaki 35",
+                "personsEL": "Αιμιλία (Αμίτα) Γανή ή Γκανή <br>Ελβίρα Γανή ή Γκανή <br>Ραχήλ Γανή ή Γκανή <br>Ησαΐας Γανής ή Γκανής <br>Ιωσήφ Χαΐμ Γανής ή Γκανής <br>Μάρκος Γανής ή Γκανής <br>Σαμουήλ Γανής ή Γκανής <br>Σολομών Γανής ή Γκανής <br>Χρυσάνθη Χουσάντα Χαμπίμπ <br>",
+                "personsEN": "Emilia (Amita) Gani <br>Elvira Gani <br>Rahil Gani <br>Isaias Ganis <br>Iosif Haim Ganis <br>Markos Ganis <br>Samouil Ganis <br>Solomon Ganis <br>Hrisanthi Housanda Habib <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016902,
+                    35.515597
+                ]
+            },
+            "properties": {
+                "id": "B043",
+                "addressEL": "Κονδυλάκη 37",
+                "addressEN": "Kondilaki 37",
+                "personsEL": "Άννα Ισχακή <br>Εσθήρ (Στερίνα) Ισχακή <br>Αλβέρτος Αβραάμ Ισχακής <br>Ματαθίας Ισχακής <br>Μωυσής Ισχακής <br>",
+                "personsEN": "Anna Ishaki <br>Esthir (Sterina) Ishaki <br>Alvertos Avraam Ishakis <br>Matathias Ishakis <br>Moisis Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0169,
+                    35.515545
+                ]
+            },
+            "properties": {
+                "id": "B044",
+                "addressEL": "Κονδυλάκη 39",
+                "addressEN": "Kondilaki 39",
+                "personsEL": "Ρόζα (Ροζέτα) Όσμο <br>Ρόζα Όσμο <br>Σάρρα Όσμο <br>Φορτουνέ (Μαζάλ) Όσμο <br>Δαβίδ Θεόφιλος Όσμος <br>Ηλίας Όσμος <br>Ηλίας Όσμος <br>Μωυσής (Μωύς) Ζαχαρίας Όσμος <br>Σολομών Όσμος <br>",
+                "personsEN": "Roza (Rozeta) Osmo <br>Roza Osmo <br>Sarra Osmo <br>Fortoune (Mazal) Osmo <br>David Theofilos Osmos <br>Ilias Osmos <br>Ilias Osmos <br>Moisis (Mois) Zaharias Osmos <br>Solomon Osmos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016887,
+                    35.51551
+                ]
+            },
+            "properties": {
+                "id": "B045",
+                "addressEL": "Κονδυλάκη 40",
+                "addressEN": "Kondilaki 40",
+                "personsEL": "Ραχήλ Παπουσάδο <br>Νισσήμ Παπουσάδος <br>",
+                "personsEN": "Rahil Papousado <br>Nissim Papousados <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016866,
+                    35.515509
+                ]
+            },
+            "properties": {
+                "id": "B046",
+                "addressEL": "Κονδυλάκη 41",
+                "addressEN": "Kondilaki 41",
+                "personsEL": "Ιωσήφ Μηνιωνής <br>",
+                "personsEN": "Iosif Minionis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016878,
+                    35.515483
+                ]
+            },
+            "properties": {
+                "id": "B047",
+                "addressEL": "Κονδυλάκη 43",
+                "addressEN": "Kondilaki 43",
+                "personsEL": "Ρεβέκκα Αλχανάτη <br>Αβραάμ Αλχανάτης <br>Μιχαήλ Αλχανάτης <br>",
+                "personsEN": "Revekka Alhanati <br>Avraam Alhanatis <br>Mihail Alhanatis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016855,
+                    35.515455
+                ]
+            },
+            "properties": {
+                "id": "B048",
+                "addressEL": "Κονδυλάκη 47",
+                "addressEN": "Kondilaki 47",
+                "personsEL": "Ζαφείρα (Ζαφειρούλα,Φωφώ) Λεβή <br>Καίτη Σέτη Λεβή <br>Ιακώβ Λεβής <br>Αλέγρα Φράγκο <br>",
+                "personsEN": "Zafira (Zafiroula, Fofo) Levi <br>Keti Seti Levi <br>Iakov Levis <br>Alegra Frango <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016857,
+                    35.515412
+                ]
+            },
+            "properties": {
+                "id": "B049",
+                "addressEL": "Κονδυλάκη 48",
+                "addressEN": "Kondilaki 48",
+                "personsEL": "Μπέλα Ασαγιά <br>Ρεγγίνα Ασαγιά <br>Ιακώβ Ασαγιάς <br>Ισαάκ Ασαγιάς <br>Μωυσής Ασαγιάς <br>Μόρδο Ασαγιάς <br>Μενασέ Εφραίμ <br>Ιακώβ Κοέν <br>Μωυσής Κοέν <br>Σουλτάνα Κοέν <br>",
+                "personsEN": "Bela Asayia <br>Regina Asayia <br>Iakov Asayias <br>Isaak Asayias <br>Moisis Asayias <br>Mordo Asayias <br>Menase Efraim <br>Iakov Koen <br>Moisis Koen <br>Soultana Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016854,
+                    35.515346
+                ]
+            },
+            "properties": {
+                "id": "B050",
+                "addressEL": "Κονδυλάκη 50",
+                "addressEN": "Kondilaki 50",
+                "personsEL": "Εσθήρ Δεπά <br>Ραχήλ Δεπά <br>Ρεβέκκα Δεπά <br>Ελβίρα Ελχάι <br>Εσθήρ Ελχάι <br>Σουλτάνα Ελχάι <br>Αλβέρτος Αβραάμ Ελχάις <br>Χαΐμ Ελχάις <br>",
+                "personsEN": "Esthir Depa <br>Rahil Depa <br>Revekka Depa <br>Elvira Elhai <br>Esthir Elhai <br>Soultana Elhai <br>Alvertos Avraam Elhais <br>Haim Elhais <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016829,
+                    35.515262
+                ]
+            },
+            "properties": {
+                "id": "B051",
+                "addressEL": "Κονδυλάκη 58",
+                "addressEN": "Kondilaki 58",
+                "personsEL": "Άννα Λεβή <br>Βικτώρια Λεβή <br>Λέα Λεβή <br>Μεριάμ Μαίρη Λεβή <br>Ρόζα Λεβή <br>Ματαθίας Λεβής <br>Πήγχας Λεβής <br>",
+                "personsEN": "Anna Levi <br>Viktoria Levi <br>Lea Levi <br>Meriam Meri Levi <br>Roza Levi <br>Matathias Levis <br>Pinhas Levis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016645,
+                    35.515491
+                ]
+            },
+            "properties": {
+                "id": "B052",
+                "addressEL": "Κονδυλάκη 64",
+                "addressEN": "Kondilaki 64",
+                "personsEL": "Μωυσής Κατς <br> Λεβή <br>Άννα Λεβή <br>Βικτώρια Λεβή <br>Λέα Λεβή <br>Μεριάμ Μαίρη Λεβή <br>Ρόζα Λεβή <br>Ματαθίας Λεβής <br>Πήγχας Λεβής <br>",
+                "personsEN": "Moisis Kats <br> Levi <br>Anna Levi <br>Viktoria Levi <br>Lea Levi <br>Meriam Meri Levi <br>Roza Levi <br>Matathias Levis <br>Pinhas Levis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.014671,
+                    35.514613
+                ]
+            },
+            "properties": {
+                "id": "B055",
+                "addressEL": "Μελετίου Πηγά 8",
+                "addressEN": "Meletiou Piga 8",
+                "personsEL": "Ευγενία (Τζένη) Μινέρβο <br>Ιουλία (Τζούλι) Μινέρβο <br>Σαμουήλ Μινέρβος <br>Ρεγγίνα Μινέρβου <br>",
+                "personsEN": "Evgenia (Tzeni) Minervou <br>Ioulia (Tzouli) Minervou <br>Samouil Minervos <br>Regina Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.150797,
+                    35.400583
+                ]
+            },
+            "properties": {
+                "id": "B056",
+                "addressEL": "Μπαμπαλί Αποκορώνου",
+                "addressEN": "Babali Apokoronou",
+                "personsEL": "Σάρρα Αττία <br>Βίκτωρ Μπεσιάν Αττίας <br>Ραφαήλ Αττίας <br>Ιουσούας Ισχακής <br>",
+                "personsEN": "Sarra Attia <br>Viktor Besian Attias <br>Rafail Attias <br>Iousouas Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.030991,
+                    35.514699
+                ]
+            },
+            "properties": {
+                "id": "B057",
+                "addressEL": "Μπόλαρη",
+                "addressEN": "Bolari",
+                "personsEL": "Εύα Βεντούρα <br>Ιωσήφ Βεντούρας <br>Εμμανουήλ Κοέν <br>Πασχάλ (Πασκουάλε) Άλμπερτ-Λεβής <br>Μαργαρίτα Πέρλα Άλμπερτ <br>Λεών Άλμπερτ <br>Ιρένε Άλμπερτ <br>Τζόρτζιο Άλμπερτ <br>Γιολάντα Άλμπερτ <br>Πασχάλ Άλμπερτ <br>",
+                "personsEN": "Eva Ventoura <br>Iosif Ventouras <br>Emmanouil Koen <br>Pashal (Paskouale) Albert-Levis <br>Margarita Perla Albert <br>Leon Albert <br>Irene Albert <br>Giorgio Albert <br>Yiolanda Albert <br>Pashal Albert <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016246,
+                    35.515705
+                ]
+            },
+            "properties": {
+                "id": "B059",
+                "addressEL": "Δούκα 7",
+                "addressEN": "Douka 7",
+                "personsEL": "Άννα Χάιδω Διέντε <br>Εσθήρ (Στερίνα) Διέντε <br>Μπουλίσα Διέντε <br>Μαλήνος Αβραάμ Διέντες <br>Σαμουήλ Διέντες <br>",
+                "personsEN": "Anna Haido Diente <br>Esthir (Sterina) Diente <br>Boulisa Diente <br>Malinos Avraam Dientes <br>Samouil Dientes <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016232,
+                    35.515758
+                ]
+            },
+            "properties": {
+                "id": "B060",
+                "addressEL": "Δούκα 8",
+                "addressEN": "Douka 8",
+                "personsEL": "Ελβίρα Ελχάι <br>Ρεβέκκα Ελχάι <br>Σάρρα Ελχάι <br>Χρυσούλα Ελχάι <br>Χαΐμ Ελχάις <br>",
+                "personsEN": "Elvira Elhai <br>Revekka Elhai <br>Sarra Elhai <br>Hrisoula Elhai <br>Haim Elhais <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016229,
+                    35.515737
+                ]
+            },
+            "properties": {
+                "id": "B061",
+                "addressEL": "Δούκα 9",
+                "addressEN": "Douka 9",
+                "personsEL": "Αβραάμ Χανέν <br>Ελβίρα Χανέν <br>Ιακώβ Χανέν <br>Μάρκος Χανέν <br>Νισσήμ Χανέν <br>Ραχήλ Ρίκα (Ρικέττα) Χανέν <br>Ρόζα Χανέν <br>",
+                "personsEN": "Avraam Hanen <br>Elvira Hanen <br>Iakov Hanen <br>Markos Hanen <br>Nissim Hanen <br>Rahil Rika (Riketta) Hanen <br>Roza Hanen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016204,
+                    35.515869
+                ]
+            },
+            "properties": {
+                "id": "B062",
+                "addressEL": "Δούκα 12",
+                "addressEN": "Douka 12",
+                "personsEL": "Αλέγρα Λεβή <br>Σάρρα Λεβή <br>",
+                "personsEN": "Alegra Levi <br>Sarra Levi <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016177,
+                    35.515926
+                ]
+            },
+            "properties": {
+                "id": "B063",
+                "addressEL": "Δούκα 15",
+                "addressEN": "Douka 15",
+                "personsEL": "Άννα Αμάρ <br>Καρολίνα Αμάρ <br>Ελίζα (Λίζα) Κοέν <br>Ισαάκ Κοέν <br>Σολομών Κοέν <br>",
+                "personsEN": "Anna Amar <br>Karolina Amar <br>Eliza (Liza) Koen <br>Isaak Koen <br>Solomon Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016112,
+                    35.515928
+                ]
+            },
+            "properties": {
+                "id": "B064",
+                "addressEL": "Δούκα 16",
+                "addressEN": "Douka 16",
+                "personsEL": "Ρενέ   Ελχάι <br> Ελχάις <br>Ηλίας Ελχάις <br>",
+                "personsEN": "Rene Elhai <br> Elhais <br>Ilias Elhais <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016039,
+                    35.515924
+                ]
+            },
+            "properties": {
+                "id": "B065",
+                "addressEL": "Δούκα 24",
+                "addressEN": "Douka 24",
+                "personsEL": "Εσθήρ (Στερίνα) Ισχακή <br>Μπόνα Ισχακή <br>Ρεβέκκα Ισχακή <br>Δανιήλ Ισχακής <br>",
+                "personsEN": "Esthir (Sterina) Ishaki <br>Bona Ishaki <br>Revekka Ishaki <br>Daniil Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016248,
+                    35.516241
+                ]
+            },
+            "properties": {
+                "id": "B066",
+                "addressEL": "Δούκα 40",
+                "addressEN": "Douka 40",
+                "personsEL": "Εσθήρ (Στερίνα) Διέντε <br>Ρεβέκκα Διέντε <br>Σάρρα Διέντε <br>Άστρο Διέντες <br>Ιακώβ Διέντες <br>Μιχαήλ Διέντες <br>Ρεβέκκα Φόρτη <br>",
+                "personsEN": "Esthir (Sterina) Diente <br>Revekka Diente <br>Sarra Diente <br>Astro Dientes <br>Iakov Dientes <br>Mihail Dientes <br>Revekka Forti <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016297,
+                    35.516182
+                ]
+            },
+            "properties": {
+                "id": "B067",
+                "addressEL": "Δούκα 43",
+                "addressEN": "Douka 43",
+                "personsEL": "Ζίλντα Δεπά <br>Ιακώβ Δεπάς <br>Σάρρα Σαλφατή <br>",
+                "personsEN": "Zilda Depa <br>Iakov Depas <br>Sarra Salfati <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016578,
+                    35.515297
+                ]
+            },
+            "properties": {
+                "id": "B068",
+                "addressEL": "Πόρτου 20",
+                "addressEN": "Portou 20",
+                "personsEL": "Λουίζα Αλχανάτη <br>Σαμουήλ Αλχανάτης <br>Σαλβατώρ Σαμπατών Φόρτης <br>",
+                "personsEN": "Louiza Alhanati <br>Samouil Alhanatis <br>Salvator Sabaton Fortis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016505,
+                    35.515315
+                ]
+            },
+            "properties": {
+                "id": "B069",
+                "addressEL": "Πόρτου 22",
+                "addressEN": "Portou 22",
+                "personsEL": "Θάλεια Φράγκο <br>Λέα Φράγκο <br>",
+                "personsEN": "Thalia Frango <br>Lea Frango <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.01584,
+                    35.515876
+                ]
+            },
+            "properties": {
+                "id": "B070",
+                "addressEL": "Πόρτου 50",
+                "addressEN": "Portou50",
+                "personsEL": "Άννα Ισχακή <br>Ιουδήθ Ισχακή <br>Σάρρα Ισχακή <br>Γαβριήλ Ισχακής <br>",
+                "personsEN": "Anna Ishaki <br>Ioudith Ishaki <br>Sarra Ishaki <br>Gavriil Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016414,
+                    35.515912
+                ]
+            },
+            "properties": {
+                "id": "B072",
+                "addressEL": "Μικρής Εβραϊκής",
+                "addressEN": "Mikris Evraikis",
+                "personsEL": "Νισσήμ Άγγελ <br>Αβραάμ Αμάρ <br>Άννα Κοέν Ισχακή <br>Ιωσήφ Κοέν Φιλιππάκης <br>Αβραάμ Κοέν <br>Σίμων Νισσήμ Κοέν <br>Ρεβέκκα Φόρτη <br>Ιωσήφ Φόρτης <br>Αβραάμ/Μάρκος Χασκέλ <br>Χαΐμ Χατσές <br>Σαρίνα Χανέν <br>",
+                "personsEN": "Nissim Angel <br>Avraam Amar <br>Anna Koen  Ishaki <br>Iosif Koen  Filippakis <br>Avraam Koen <br>Simon Nissim Koen <br>Revekka Forti <br>Iosif Fortis <br>Avraam/Markos Haskel <br>Haim Hatses <br>Sarina Hanen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016548,
+                    35.516401
+                ]
+            },
+            "properties": {
+                "id": "B073",
+                "addressEL": "Σκούφων 3",
+                "addressEN": "Skoufon 3",
+                "personsEL": "Αιμιλία Μόρδο <br>Ραφαήλ Μόρδος <br>",
+                "personsEN": "Emilia Mordo <br>Rafail Mordos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016542,
+                    35.51632
+                ]
+            },
+            "properties": {
+                "id": "B074",
+                "addressEL": "Σκούφων 6",
+                "addressEN": "Skoufon 6",
+                "personsEL": "Ελίζα Κοέν <br>Σουλτάνα Κοέν <br>Λέα Λεβή <br>Λέα Λεβή <br>Ιωσήφ Λεβής <br>Ματαθίας Λεβής <br>Ματαθίας Λεβής <br>Ζίλντα Ευαγγελία Λουιζίδου <br>Αιμιλία (Μηλιά) Τρέβεζα <br>Λευκή (Ρευκούλα) Τρέβεζα <br>Ελιασάν Αλέξανδρος Τρέβεζας <br>Σαμουήλ Σίμος Τρέβεζας <br>",
+                "personsEN": "Eliza Koen <br>Soultana Koen <br>Lea Levi <br>Lea Levi <br>Iosif Levis <br>Matathias Levis <br>Matathias Levis <br>Zilda Evangelia Louizidou <br>Emilia (Milia) Treveza <br>Lefki (Refkoula) Treveza <br>Eliasan Alexandros Trevezas <br>Samouil Simos Trevezas <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016532,
+                    35.516278
+                ]
+            },
+            "properties": {
+                "id": "B075",
+                "addressEL": "Σκούφων 9",
+                "addressEN": "Skoufon 9",
+                "personsEL": "Ζίλντα Σαλφατή <br>Ματίλδη Μαζαλτώφ Σαλφατή <br>Σάρρα Σαλφατή <br>Σουλτάνα Σαλφατή <br>Αλβέρτος Αβραάμ Σαλφατής <br>Δαβίδ Σαλφατής <br>Νισσήμ Μωυσής Σαλφατής <br>Αβραάμ Χανέν <br>Ελβίρα Χανέν <br>Ιακώβ Χανέν <br>Μάρκος Χανέν <br>Νισσήμ Χανέν <br>Ραχήλ Ρίκα (Ρικέττα) Χανέν <br>Ρόζα Χανέν <br>",
+                "personsEN": "Zilda Salfati <br>Matildi Mazaltof Salfati <br>Sarra Salfati <br>Soultana Salfati <br>Alvertos Avraam Salfatis <br>David Salfatis <br>Nissim Moisis Salfatis <br>Avraam Hanen <br>Elvira Hanen <br>Iakov Hanen <br>Markos Hanen <br>Nissim Hanen <br>Rahil Rika (Riketta) Hanen <br>Roza Hanen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.01651,
+                    35.516185
+                ]
+            },
+            "properties": {
+                "id": "B076",
+                "addressEL": "Σκούφων 10",
+                "addressEN": "Skoufon 10",
+                "personsEL": "Ρεβέκκα Γανή ή Γκανή <br>Σολομών Γανής ή Γκανής <br>Ίρμα Φόρτη <br>Εδμόν Φόρτης <br>",
+                "personsEN": "Revekka Gani <br>Solomon Ganis <br>Irma Forti <br>Edmon Fortis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016494,
+                    35.51615
+                ]
+            },
+            "properties": {
+                "id": "B077",
+                "addressEL": "Σκούφων 11",
+                "addressEN": "Skoufon 11",
+                "personsEL": "Ηλίας Ισχακής <br>",
+                "personsEN": "Ilias Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016492,
+                    35.516147
+                ]
+            },
+            "properties": {
+                "id": "B078",
+                "addressEL": "Σκούφων 13",
+                "addressEN": "Skoufon 13",
+                "personsEL": "Ιουδήθ Κούνιο <br>Λεών Κούνιο <br>Μπουλίσα Κούνιο <br>Ντόλτσα Κούνιο <br>Σάρρα Κούνιο <br>",
+                "personsEN": "Ioudith Kounio <br>Leon Kounio <br>Boulisa Kounio <br>Doltsa Kounio <br>Sarra Kounio <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016486,
+                    35.51614
+                ]
+            },
+            "properties": {
+                "id": "B079",
+                "addressEL": "Σκούφων 16",
+                "addressEN": "Skoufon 16",
+                "personsEL": "Εσθήρ (Στερίνα) Κοέν <br>",
+                "personsEN": "Esthir (Sterina) Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016492,
+                    35.516138
+                ]
+            },
+            "properties": {
+                "id": "B080",
+                "addressEL": "Σκούφων 17",
+                "addressEN": "Skoufon 17",
+                "personsEL": "Ισραήλ Μουστάκης <br>",
+                "personsEN": "Israil Moustakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016485,
+                    35.516135
+                ]
+            },
+            "properties": {
+                "id": "B081",
+                "addressEL": "Σκούφων 18",
+                "addressEN": "Skoufon 18",
+                "personsEL": "Νισσήμ Αμάρ <br>",
+                "personsEN": "Nissim Amar <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016408,
+                    35.515857
+                ]
+            },
+            "properties": {
+                "id": "B082",
+                "addressEL": "Σκούφων 23",
+                "addressEN": "Skoufon 23",
+                "personsEL": "Κλοτίλδη Άγγελ <br>",
+                "personsEN": "Klotildi Angel <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016386,
+                    35.51577
+                ]
+            },
+            "properties": {
+                "id": "B083",
+                "addressEL": "Σκούφων 26",
+                "addressEN": "Skoufon 26",
+                "personsEL": "Μωυσής Αμάρ <br>Εσθήρ (Στερίνα) Διέντε <br>Ρεβέκκα Διέντε <br>Σάρρα Διέντε <br>Άστρο Διέντες <br>Ιακώβ Διέντες <br>Μιχαήλ Διέντες <br>",
+                "personsEN": "Moisis Amar <br>Esthir (Sterina) Diente <br>Revekka Diente <br>Sarra Diente <br>Astro Dientes <br>Iakov Dientes <br>Mihail Dientes <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016371,
+                    35.515692
+                ]
+            },
+            "properties": {
+                "id": "B084",
+                "addressEL": "Σκούφων 28",
+                "addressEN": "Skoufon 28",
+                "personsEL": "Ελβίρα Ελχάι <br>Εσθήρ Ελχάι <br>Εσθήρ Ελχάι <br>Σουλτάνα Ελχάι <br>Αλβέρτος Αβραάμ Ελχάις <br>Αλβέρτος Ελχάις <br>Χαΐμ Ελχάις <br>Χαΐμ Ελχάις <br>Αλβέρτος Ζακάρ <br>",
+                "personsEN": "Elvira Elhai <br>Esthir Elhai <br>Esthir Elhai <br>Soultana Elhai <br>Alvertos Avraam Elhais <br>Alvertos Elhais <br>Haim Elhais <br>Haim Elhais <br>Alvertos Zakar <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016367,
+                    35.515644
+                ]
+            },
+            "properties": {
+                "id": "B085",
+                "addressEL": "Σκούφων 30",
+                "addressEN": "Skoufon 30",
+                "personsEL": "Σίμων Ευσέβιος Αβιγαδές ή Αβιγαδώρ <br>Ντόλτσα Ισχακή <br>Ιακώβ Ισχακής <br>Σίμων Ισχακής <br>",
+                "personsEN": "Simon Efsevios Avigades or Avigador <br>Doltsa Ishaki <br>Iakov Ishakis <br>Simon Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016429,
+                    35.515587
+                ]
+            },
+            "properties": {
+                "id": "B086",
+                "addressEL": "Σκούφων 37",
+                "addressEN": "Skoufon 37",
+                "personsEL": "Ιωσήφ Κονέν <br>Λέα Κονέν <br>Μάρκος Κονέν <br>Μαίρη Κονέν <br>Μασλάχ Κονέν <br>Ρεγγίνα Κονέν <br>Ρικέττα Κονέν <br>Ρόζα Κονέν <br>Σίμων Κονέν <br>",
+                "personsEN": "Iosif Konen <br>Lea Konen <br>Markos Konen <br>Meri Konen <br>Maslah Konen <br>Regina Konen <br>Riketta Konen <br>Roza Konen <br>Simon Konen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.01643,
+                    35.51555
+                ]
+            },
+            "properties": {
+                "id": "B087",
+                "addressEL": "Σκούφων 39",
+                "addressEN": "Skoufon 39",
+                "personsEL": "Ισαάκ Χασκέλ <br>Νίνα Χασκέλ <br>Ρευκούλα Χασκέλ <br>Χρυσώ Χασκέλ <br>",
+                "personsEN": "Isaak Haskel <br>Nina Haskel <br>Refkoula Haskel <br>Hriso Haskel <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016448,
+                    35.515351
+                ]
+            },
+            "properties": {
+                "id": "B088",
+                "addressEL": "Σκούφων 41",
+                "addressEN": "Skoufon 41",
+                "personsEL": "Σολομών Κοέν <br>",
+                "personsEN": "Solomon Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.02799,
+                    35.515138
+                ]
+            },
+            "properties": {
+                "id": "B089",
+                "addressEL": "Σπάρτης 16",
+                "addressEN": "Spartis 16",
+                "personsEL": "Μπιάνκα Βεντούρα <br>Βήττας Βίκτωρ Βεντούρας <br>Ιωσήφ Βεντούρας <br>Ραφαήλ Βεντούρας <br>Υβέτ Εύα Λεβή <br>",
+                "personsEN": "Bianka Ventoura <br>Vittas Viktor Ventouras <br>Iosif Ventouras <br>Rafail Ventouras <br>Ivet Eva Levi <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.023962,
+                    35.511774
+                ]
+            },
+            "properties": {
+                "id": "B090",
+                "addressEL": "Δημοτικού Κήπου",
+                "addressEN": "Dimotikou Kipou",
+                "personsEL": "Αλφρέδος Μινέρβος <br>Μασλάχ Μινέρβος <br>Μωυσής Μινέρβος <br>Νισσήμ Μινέρβος <br>Πασχάλ Μινέρβος <br>Δωροθέα Μινέρβου <br>Λέα Μινέρβου <br>",
+                "personsEN": "Alfredos Minervos <br>Maslah Minervos <br>Moisis Minervos <br>Nissim Minervos <br>Pashal Minervos <br>Dorothea Minervou <br>Lea Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017847,
+                    35.516376
+                ]
+            },
+            "properties": {
+                "id": "B091",
+                "addressEL": "Πλατεία Μαυροβουνίου",
+                "addressEN": "Platia Mavrovouniou",
+                "personsEL": "Σίμων Νισσήμ Κοέν <br>",
+                "personsEN": "Simon Nissim Koen <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.039883,
+                    35.516701
+                ]
+            },
+            "properties": {
+                "id": "B092",
+                "addressEL": "Χαιρέτη 20",
+                "addressEN": "Hereti 20",
+                "personsEL": "Αλβέρτος Αβραάμ Μινέρβος <br>Βικτώρια Μινέρβου <br>",
+                "personsEN": "Alvertos Avraam Minervos <br>Viktoria Minervou <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016861,
+                    35.515449
+                ]
+            },
+            "properties": {
+                "id": "B094",
+                "addressEL": "Κονδυλάκη 46",
+                "addressEN": "Kondilaki 46",
+                "personsEL": "Ιερεμίας Αλπαχέρ <br>",
+                "personsEN": "Ieremias Alpaher <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026779,
+                    35.510282
+                ]
+            },
+            "properties": {
+                "id": "B095",
+                "addressEL": "Ρώμης",
+                "addressEN": "Romis",
+                "personsEL": "Λεών Ισχακής <br>",
+                "personsEN": "Leon Ishakis <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.026779,
+                    0.510282
+                ]
+            },
+            "properties": {
+                "id": "B096",
+                "addressEL": "Στρατιωτικόν νοσοκομείον",
+                "addressEN": "Military hospital",
+                "personsEL": "Σαλβατώρ Σαλφατής <br>",
+                "personsEN": "Salvator Salfatis <br>"
+            }
+        }
+    ]
+}

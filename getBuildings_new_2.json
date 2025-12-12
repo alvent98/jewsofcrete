@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016505, 35.515315
+                ]
+            },
+            "properties": {
+                "id": "B069",
+                "addressEL": "Πόρτου 22",
+                "addressEN": "Portou 22",
+                "personsEL": "Αλβέρτος Αβραάμ Μινέρβος <br> Βικτώρια Μινέρβο <br> Σαμουήλ Στέφανος Μινέρβος",
+                "personsEN": "Alvertos Avraam Minervos <br> Viktoria Minervou <br> Samouil Stefanos Minervos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [24.0185128, 35.516893]
+            },
+            "properties": {
+              "id": "B054",
+              "addressEL": "Λιθινών 15",
+              "addressEN": "Lithinon 15",
+              "personsEL": "Βικτώρια Φερμών",
+              "personsEN": "Viktoria Fermon"
+            }
+        },{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.017083,
+                    35.516275
+                ]
+            },
+            "properties": {
+                "id": "B030",
+                "addressEL": "Κονδυλάκη 8",
+                "addressEN": "Kondilaki 8",
+                "personsEL": "Ιωσήφ Κοέν Φιλιππάκης",
+                "personsEN": "Iosif Koen Filippakis"
+            }
+        }
+    ]
+}

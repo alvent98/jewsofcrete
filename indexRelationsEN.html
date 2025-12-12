@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<!--
+ JEWS OF CRETE
+
+Relations' Page
+
+v20181016EL
+-->
+
+<html>
+    <head>
+        <title>Jews of Crete - Family Relations</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124420029-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-124420029-1');
+        </script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="jocCurrentPage" content="indexRelations">
+        <meta name="jocLanguage" content="en">
+        <link rel="icon" type="image/x-icon" href="/rsc/icons/favicon.png"/>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:300,400,600,700,800&amp;subset=greek" rel="stylesheet"/>
+        <!-- <link href="https://joc-test.aigeo.eu/css/jquery-ui.css" rel="stylesheet"/> -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" />
+        <link rel="stylesheet" href="/css/MarkerCluster.css"/>
+        <link rel="stylesheet" href="/css/MarkerCluster.Default.css"/>
+        <link rel="stylesheet" href="/css/pgwslider.min.css" />
+
+        <link rel="stylesheet" href="/css/jewsOfCrete.css"/>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js" type="text/javascript"></script> 
+        <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+        <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="/css/MarkerCluster.css"/>
+        <link rel="stylesheet" href="/css/MarkerCluster.Default.css"/>
+        <!-- <script src="https://unpkg.com/leaflet@1.3.4/src/layer/marker/Marker.js"></script> -->
+
+        <script src="./scripts/pgwslider.min.js" type="text/javascript"></script> 
+
+
+        <script type='text/javascript' src='./unitegallery/js/unitegallery.js'></script> 
+        <link rel='stylesheet' href='./unitegallery/css/unite-gallery.css' type='text/css' /> 
+        <script type='text/javascript' src='./unitegallery/themes/tiles/ug-theme-tiles.js'></script> 
+
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+
+        <script src="/scripts/jewsOfCrete.js" type="text/javascript"></script>
+        
+    </head>
+    <body>
+        <div id="uiNavigatorOuter">
+        </div>
+
+        <div id="uiScreenContainer">
+            <div id="uiRelationsContainer">
+                <div id="uiGoToTheTop"></div>
+                <div id="uiRelationsLeftPanelContainer">
+
+                    <div id="uiMapLeftPanel">
+                        <div id="uiMapLPFilters">
+                            <select id="uiMapLPSelectLastName">
+                                <option class="familyTreeOption" id="Alhanatis">Alhanatis David and [unknown]</option>
+                                <option class="familyTreeOption" id="Amar">Amar Markos and Eliza</option>
+                                <option class="familyTreeOption" id="Angel">Angel Avraam and Anna</option>
+                                <option class="familyTreeOption" id="Asayias">Asayias Mordo and Regina</option>
+                                <option class="familyTreeOption" id="Attias1">Attias Angel and [unknown]</option>
+                                <option class="familyTreeOption" id="Attias2">Attias Iakov and Esther</option>
+                                <option class="familyTreeOption" id="Avigades_Or_Avigador">Avigades or Avigador Tselepon and Doudou</option>
+                                <option class="familyTreeOption" id="Betsikas">Betsikas Leon and Hanna</option>
+                                <option class="familyTreeOption" id="Dalmedikos">Dalmedikos Vittas and [unknown]</option>
+                                <option class="familyTreeOption" id="Depas">Depas Moisis and Rahil</option>
+                                <option class="familyTreeOption" id="Dientes">Dientes Avraam and Doltsa</option>
+                                <option class="familyTreeOption" id="Elhais1">Elhais Avraam and Bona</option>
+                                <option class="familyTreeOption" id="Elhais2">Elhais Isaak and Rahil</option>
+                                <option class="familyTreeOption" id="Elhais3">Elhais Sabaton and Rina</option>
+                                <option class="familyTreeOption" id="Eskenazis">Eskenazis Menahem and Sarra</option>
+                                <option class="familyTreeOption" id="Evlagon">Evlagon David and Kalomira</option>
+                                <option class="familyTreeOption" id="Fermon">Fermon Moisis and [unknown]</option>
+                                <option class="familyTreeOption" id="Fortis1">Fortis Moisis and [unknown]</option>
+                                <option class="familyTreeOption" id="Fortis3">Fortis Solomon and Astro</option>
+                                <option class="familyTreeOption" id="Fortis2">Fortis Solomon and Perla</option>
+                                <option class="familyTreeOption" id="Frangis">Frangis Isaak and Revekka</option>
+                                <option class="familyTreeOption" id="Frangos8">Frangos David and [unknown]</option>
+                                <option class="familyTreeOption" id="Frangos3">Frangos Iakov and Thalia</option>
+                                <option class="familyTreeOption" id="Frangos5">Frangos Iakov and Roza</option>
+                                <option class="familyTreeOption" id="Frangos7">Frangos Isaak and [unknown]</option>
+                                <option class="familyTreeOption" id="Frangos4">Frangos Markos and Esthir</option>
+                                <option class="familyTreeOption" id="Frangos6">Frangos Markos and Rahil</option>
+                                <option class="familyTreeOption" id="Frangos1">Frangos Nissim and [unknown]</option>
+                                <option class="familyTreeOption" id="Frangos2">Frangos Rafail and Alegra</option>
+                                <option class="familyTreeOption" id="Gamvais_Or_Gabais">Gamvais or Gabais Haim and Roza</option>
+                                <option class="familyTreeOption" id="Ganis">Ganis Samouil and Rahil</option>
+                                <option class="familyTreeOption" id="Grasianos">Grasianos Moisis and [unknown]</option>
+                                <option class="familyTreeOption" id="Hanen">Hanen Avraam and Sarina</option>
+                                <option class="familyTreeOption" id="Haskel">Haskel Isaak and Zafira</option>
+                                <option class="familyTreeOption" id="Isaak">Isaak Isaak and Hrisanthi</option>
+                                <option class="familyTreeOption" id="Ishakis2">Ishakis Daniil and Zafira</option>
+                                <option class="familyTreeOption" id="Ishakis1">Ishakis Markos and Hanna</option>
+                                <option class="familyTreeOption" id="Kavalieros">Kavalieros Avraam and Sarina</option>
+                                <option class="familyTreeOption" id="Koen6">Koen Alvertos and [unknown]</option>
+                                <option class="familyTreeOption" id="Koen4">Koen Avraam and Malka</option>
+                                <option class="familyTreeOption" id="Koen2">Koen Avraam and Revekka</option>
+                                <option class="familyTreeOption" id="Koen3">Koen Gavriil and Esthir</option>
+                                <option class="familyTreeOption" id="Koen8">Koen Haim and Zeni</option>
+                                <option class="familyTreeOption" id="Koen5">Koen Ilias and Simha</option>
+                                <option class="familyTreeOption" id="Koen7">Koen Solomon and [unknown]</option>
+                                <option class="familyTreeOption" id="Koen1">Koen Saoul and Behora</option>
+                                <option class="familyTreeOption" id="Konen">Konen Simon and Roza</option>
+                                <option class="familyTreeOption" id="Konstantinis">Konstantinis Samouil and Miriam</option>
+                                <option class="familyTreeOption" id="Leon">Leon Isaak and Behora</option>
+                                <option class="familyTreeOption" id="Levis2">Levis Iakov and Soultana</option>
+                                <option class="familyTreeOption" id="Levis1">Levis Markos and Alegra</option>
+                                <option class="familyTreeOption" id="Levis3">Levis Moisis and [unknown]</option>
+                                <option class="familyTreeOption" id="Levis4">Levis Yiohanas and Esthir</option>
+                                <option class="familyTreeOption" id="Mandalon">Mandalon Avraam and Revekka</option>
+                                <option class="familyTreeOption" id="Minervos3">Minervos Edmon and Rebekka</option>
+                                <option class="familyTreeOption" id="Minervos1">Minervos Haim and [unknown]</option>
+                                <option class="familyTreeOption" id="Minervos2">Minervos Iosif and Simha</option>
+                                <option class="familyTreeOption" id="Minionis">Minionis Samouil and Devora</option>
+                                <option class="familyTreeOption" id="Molhos">Molhos Solomon and Stella</option>
+                                <option class="familyTreeOption" id="Mordos1">Mordos Moisis and Mazaltof</option>
+                                <option class="familyTreeOption" id="Mordos2">Mordos Samouil and Sterina</option>
+                                <option class="familyTreeOption" id="Moustakis">Moustakis Savvas and Alegra</option>
+                                <option class="familyTreeOption" id="Naxon">Naxon Isaak and Rika</option>
+                                <option class="familyTreeOption" id="Osmos1">Osmos Solomon and [unknown]</option>
+                                <option class="familyTreeOption" id="Osmos2">Osmos Viktor Haim and [unknown]</option>
+                                <option class="familyTreeOption" id="Papousados">Papousados Maslah and [unknown]</option>
+                                <option class="familyTreeOption" id="Pinhas">Pinhas Moisis and Sarra</option>
+                                <option class="familyTreeOption" id="Politis">Politis Markos and Revekka</option>
+                                <option class="familyTreeOption" id="Rafail">Rafail Moisis and Efthimia</option>
+                                <option class="familyTreeOption" id="Rotemverg">Rotemverg Avraam and [unknown]</option>
+                                <option class="familyTreeOption" id="Salem1">Salem Isaak and Nina</option>
+                                <option class="familyTreeOption" id="Salem2">Salem Solomon and [unknown]</option>
+                                <option class="familyTreeOption" id="Salfatis1">Salfatis Avraam and [unknown]</option>
+                                <option class="familyTreeOption" id="Salfatis2">Salfatis David and [unknown]</option>
+                                <option class="familyTreeOption" id="Salfatis3">Salfatis David and Sarra</option>
+                                <option class="familyTreeOption" id="Salfatis4">Salfatis Sabaton and Stamatoula</option>
+                                <option class="familyTreeOption" id="Sardas">Sardas Rafail and [unknown]</option>
+                                <option class="familyTreeOption" id="Sezanas">Sezanas Matathias and Revekka</option>                                
+                                <option class="familyTreeOption" id="Serenas2">Serenas Avraam and [unknown]</option>
+                                <option class="familyTreeOption" id="Serenas1">Serenas Solomon and [unknown]</option>
+                                <option class="familyTreeOption" id="Soulhamis">Soulhamis Savvas and Simha</option>
+                                <option class="familyTreeOption" id="Trevezas">Trevezas Avraam and Mazaltof</option>
+                                <option class="familyTreeOption" id="Ventouras">Ventouras Samouil and Violeta</option>                                                              
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="uiGraphContainer">
+                    <iframe class="pdf" id="pdf" src="rsc/trees/Alhanatis David and [unknown].pdf#navpanes=0#view=FitV" width="100%" height="100%"></iframe>
+                </div>  
+
+            </div>
+            <div id="uiFooterContainer">
+                <div id="uiFooterOuter">
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

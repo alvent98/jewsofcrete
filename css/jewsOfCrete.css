@@ -1,0 +1,2523 @@
+/*
+JEWS OF CRETE!
+*/
+/* 
+v20251123a
+*/
+
+@font-face {
+  font-family: "LinLibertine_DR";
+  font-style: normal;
+  font-weight: 700;
+  src: local("LinLibertine_DR Regular"), local("LinLibertine_DR"),
+    url("../fonts/LinLibertine_DR.woff") format("woff");
+}
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+em,
+img,
+strong,
+ol,
+ul,
+li,
+table,
+tr,
+th,
+td,
+form {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html {
+  display: flex;
+  min-width: 1250px;
+  height: 100%;
+  min-height: 820px;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 1em;
+}
+
+body {
+  order: 1;
+  display: flex;
+  flex: 0 0 auto;
+  background-color: #333;
+  width: 100%;
+  min-height: 100%;
+}
+
+/*
+These corrects style data for elements that have been set by other css files
+*/
+
+/*
+These are used by pgw slider
+*/
+.ps-caption {
+  box-sizing: border-box;
+}
+
+.pgwSlider.narrow .ps-current {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+ul.pgwSlider>li,
+.pgwSlider>.ps-list>li {
+  font-size: 1rem !important;
+}
+
+/*
+The Navigator panel stays always on the top of the screen
+Includes the social media related icons, an email address for communication, a language selector, site's logo, and the main menu
+*/
+#uiNavigatorOuter {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  min-width: 1250px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  box-sizing: border-box;
+  height: 130px;
+  border: hidden;
+  background-color: #a6c7c2;
+  z-index: 999;
+  justify-content: center;
+}
+
+#uiNavigator {
+  order: 1;
+  display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  width: 100%;
+  height: 120px;
+  border: hidden;
+  background-color: transparent;
+  z-index: 999;
+  padding: 0px 95px;
+  max-width: 1600px;
+}
+
+/*
+The top line of the Navigator panel is dedicated to the social media, communication by email, and the language selector 
+*/
+#uiNavigatorSocial {
+  order: 1;
+  width: 100%;
+  height: 30px;
+  box-sizing: border-box;
+  border-bottom: solid 1px #fa7a7a;
+  display: flex;
+  flex-flow: row nowrap;
+  flex-direction: row;
+  padding: 0px;
+  justify-content: flex-end;
+}
+
+#uiMail {
+  order: 1;
+  height: 100%;
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font-size: 12px;
+  color: white;
+  font-family: "LinLibertine_DR", sans-serif;
+  text-align: left;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+#uiMailIcon {
+  flex: 0 0 auto;
+  box-sizing: border-box;
+}
+
+/*
+This toolbar includes the social media and language selector toolbars
+*/
+#uiNavigatorSocialRight {
+  order: 2;
+  height: 30px;
+  padding: 0px;
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  flex-direction: row-reverse;
+  align-items: center;
+  width: 300px;
+}
+
+#uiLanguages {
+  order: 1;
+  display: flex;
+  flex-flow: row nowrap;
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 0px 15px 0px 15px;
+}
+
+/*
+A toolbar that contains the social media related icons at the Navigation Ribbon
+*/
+#uiSocialMedia {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row-reverse nowrap;
+  box-sizing: border-box;
+  width: 120px;
+}
+
+.uiSocialMediaItem {
+  flex: 0 0 auto;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  margin: 5px;
+}
+
+#uiSocialMediaFacebook {
+  order: 1;
+  background-image: url("../rsc/social/facebook20.png");
+}
+
+#uiSocialMediaTweeter {
+  order: 2;
+  background-image: url("../rsc/social/tweeter20.png");
+}
+
+#uiSocialMediaYouTube {
+  order: 3;
+  background-image: url("../rsc/social/youtube20.png");
+}
+
+#uiSocialMediaFacebook:hover {
+  background-image: url("../rsc/social/facebook20_hover.png");
+}
+
+#uiSocialMediaTweeter:hover {
+  background-image: url("../rsc/social/tweeter20_hover.png");
+}
+
+#uiSocialMediaYouTube:hover {
+  background-image: url("../rsc/social/youtube20_hover.png");
+}
+
+.uiLanguageItem a {
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: column nowrap;
+  flex: 0 0 auto;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  justify-content: center;
+  color: #777777;
+  text-decoration: none;
+  padding: 0px 5px 0px 5px;
+}
+
+/*
+The second line of the Navigation Panel
+*/
+#uiNavigatorMain {
+  order: 2;
+  width: 100%;
+  height: 90px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+#uiLogo {
+  order: 1;
+  width: fit-content;
+  height: 90px;
+  flex: 0 0 auto;
+  box-sizing: border-box;
+}
+
+#uiLogoImg {
+  height: 80px;
+  padding: 5px 0px 5px 0px;
+}
+
+/*
+The main menu of navigation
+*/
+
+#uiMenuContainer {
+  order: 2;
+  align-self: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: column nowrap;
+}
+
+#uiMenu {
+  order: 1;
+  align-self: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+#uiMenuBottomLineContainer {
+  order: 2;
+  width: 100%;
+  height: 4px;
+}
+
+#uiMenuBottomLine {
+  height: 4px;
+  box-sizing: border-box;
+  border: hidden;
+  background-color: #fa7a7a;
+  width: 0px;
+  position: relative;
+}
+
+.uiMenuItem {
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  color: white;
+  font-size: 18px;
+  height: 86px;
+  border: hidden;
+  border-bottom: 4px solid transparent;
+  padding: 10px;
+  transition: color 0.4s ease-in;
+  cursor: pointer;
+  font-family: "LinLibertine_DR", sans-serif;
+  text-decoration: none;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
+
+.uiMenuItem:hover {
+  color: #444;
+  /*
+    border-bottom: 4px solid #fa7a7a;
+    */
+  transition: color 0.2s ease-in;
+}
+
+.uiMenuItemSelected {
+  color: #444;
+  border: hidden;
+  border-bottom: 4px solid transparent;
+}
+
+/*
+Content & Footer Container
+*/
+
+#uiScreenContainer {
+  width: 100%;
+  padding: 130px 0px 0px 0px;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  flex: 1 0 auto;
+}
+
+/*
+The main subject container
+*/
+#uiContentContainer {
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: transparent;
+}
+
+/*
+Slider: A subject container on the Home Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+#uiSliderOuter {
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #f4f0ef;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiSlider {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: #f4f0ef;
+  width: 100%;
+  box-sizing: border-box;
+  height: fit-content;
+}
+
+#uiSliderLeft {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 60%;
+  box-sizing: border-box;
+  color: #777777;
+  height: fit-content;
+}
+
+#uiSliderLeftHeader {
+  order: 1;
+  display: flex;
+  flex-flow: column wrap;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 75px;
+  height: fit-content;
+  line-height: 78px;
+}
+
+.uiSliderLeftHeaderLine {
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: row wrap;
+}
+
+.uiOpenSansCondensedLight {
+  font-weight: 300;
+  padding: 0px 20px 0px 0px;
+}
+
+.uiOpenSansCondensedBold {
+  font-weight: 700;
+  padding: 0px 20px 0px 0px;
+}
+
+#uiSliderLeftText {
+  order: 2;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  line-height: 24px;
+  padding: 30px 0px 15px 0px;
+}
+
+#uiSliderRight {
+  order: 2;
+  flex: 0 0 auto;
+  width: 40%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-content: center;
+}
+
+#uiSliderRightImg {
+  order: 1;
+  object-fit: contain;
+  width: 70%;
+  height: 100%;
+}
+
+#uiSliderLeftMoreButtonLink {
+  order: 3;
+  flex: 0 0 auto;
+  width: fit-content;
+  box-sizing: border-box;
+  margin-top: 30px;
+  padding: 15px 30px 15px 30px;
+  background-color: #777777;
+  color: white;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+  transition: background-color 0.2s ease-in;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#uiSliderLeftMoreButtonLink:hover {
+  background-color: #fa7a7a;
+  transition: background-color 0.2s ease-in;
+}
+
+/*
+SliderReasearch: A subject container on the Research Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+
+#uiSliderResearchOuter {
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #f4f0ef;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiSliderResearch {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #f4f0ef;
+  width: 100%;
+  box-sizing: border-box;
+  height: fit-content;
+  color: #333;
+}
+
+.uiSliderResearchRow {
+  flex: 0 0 100%;
+  flex-flow: row nowrap;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.ui4c {
+  flex: 1 0 20%;
+  display: flex;
+  box-sizing: border-box;
+  flex-flow: row wrap;
+  width: 20%;
+}
+
+#ui5r1c1 {
+  justify-content: space-between;
+}
+
+#ui5r1c1text {
+  display: flex;
+  flex: 0 0 100%;
+  flex-flow: row wrap;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+#ui5r1c3 {
+  flex: 3 1 60%;
+  display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  justify-content: center;
+  min-height: 100%;
+}
+
+#ui5r1c3img {
+  order: 1;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.uithinc {
+  flex: 1 0 60px;
+  max-width: 60px;
+  background-image: url("../rsc/middle_dots.png");
+  background-repeat: repeat-y;
+  background-position: center top;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#ui5r1c1EOL {
+  flex: 1 1 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 40px 0px 0px 10px;
+  box-sizing: border-box;
+}
+
+#ui5e1c1EOLimg {
+  flex: 0 0 auto;
+  width: 80%;
+}
+
+#ui5r1c3Caption {
+  order: 2;
+  flex: 0 1 auto;
+  flex-flow: row nowrap;
+  text-align: right;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+#uiSliderResearchRow2 {
+  padding: 25px 0px 0px 0px;
+  box-sizing: border-box;
+}
+
+#ui5r2c1 {
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+#ui5r2c3 {
+  flex: 2 0 40%;
+  display: flex;
+  flex-flow: column nowrap;
+  font-family: "LinLibertine_DR", sans-serif;
+  padding: 0px 60px 0px 0px;
+}
+
+#ui5r2c3r1 {
+  order: 1;
+  font-weight: bold;
+  font-size: 28px;
+  /* display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box; */
+  color: #636363;
+}
+
+#ui5r2c3r2 {
+  order: 2;
+  font-weight: bold;
+  font-size: 17px;
+  /* display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box; */
+  background-color: #a6c7c2;
+  margin-top: 20px;
+  color: white;
+}
+
+#ui5r2c3r3 {
+  order: 3;
+  font-weight: bold;
+  font-size: 17px;
+  /* display: flex; */
+  /* flex-flow: row nowrap; */
+  /* box-sizing: border-box; */
+  color: white;
+  background-color: #a6c7c2;
+  padding: 10px 20px;
+  margin-top: 40px;
+}
+
+#ui5r2c3r4 {
+  order: 4;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+#ui5r2c5 {
+  /* display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box; */
+  order: 5;
+  background-color: #e6e6e6;
+  padding: 20px;
+  justify-content: center;
+  align-content: center;
+  margin-top: 38px;
+}
+
+#ui5r2c5img {
+  order: 1;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/*
+SliderContact: A subject container on the Contact Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+
+#uiSliderContactOuter {
+  order: 2;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #a6c7c2;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiSliderContact {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #a6c7c2;
+  width: 100%;
+  box-sizing: border-box;
+  height: fit-content;
+  color: #333;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+}
+
+
+.uiSliderContactSubject {
+  flex: 0 0 auto;
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  flex-flow: column wrap;
+  box-sizing: border-box;
+  height: fit-content;
+  text-wrap: true;
+}
+
+
+.uiSliderContactSubjectTitle {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 0px 0px 40px 0px;
+  color: #fa7a7a
+}
+
+.uiSliderContactLine {
+  font-size: 20px;
+  line-height: 2;
+}
+
+.uiSliderContactLine>a {
+  font-size: 24px;
+}
+
+.uiSliderResearchTeamSubject {
+  flex: 0 0 auto;
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  flex-flow: column wrap;
+  box-sizing: border-box;
+  height: fit-content;
+  text-wrap: true;
+}
+
+
+.uiSliderResearchTeamSubjectTitle {
+  font-size: 22px;
+  padding: 10px 0px 10px 0px;
+}
+
+#uiSliderResearchTeamSubject1 .team-role-header {
+  margin: 12px 0 12px 0px;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+#uiSliderResearchTeamSubject1 .team-row {
+  display: grid;
+  grid-template-columns: minmax(200px, 200px) 1fr;
+  column-gap: 40px;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+#uiSliderResearchTeamSubject1 .team-row>div {
+  margin: 0;
+  padding: 0;
+}
+
+#uiSliderResearchTeamSubject1 .team-row>.team-name {
+  color: #fa7a7a;
+  white-space: nowrap;
+  font-size: 19px;
+}
+
+#uiSliderResearchTeamSubject1 .team-row>.team-desc {
+  font-size: 17px;
+}
+
+/*
+SliderSite: A subject container on the Site Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+
+#uiSliderSiteOuter {
+  order: 2;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #a6c7c2;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiSliderSite {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 1 0 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #a6c7c2;
+  width: 100%;
+  box-sizing: border-box;
+  height: 100%;
+  color: #333;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+}
+
+#uiSliderSiteWrapper {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  height: fit-content;
+  align-self: center;
+}
+
+#uiSliderSiteTitle {
+  order: 1;
+  flex: 0 0 auto;
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  flex-flow: column wrap;
+  box-sizing: border-box;
+  height: fit-content;
+  align-self: center;
+}
+
+.uiSliderSitePerson {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  font-size: 14px;
+  padding: 12px 0px 12px 0px;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.uiSliderSitePersonName {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 6px 0px 12px 0px;
+  font-size: 16px;
+  color: white;
+
+  box-sizing: border-box;
+}
+
+.uiSliderSitePersonProfession {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 3px 0px 3px 0px;
+  color: #333;
+  font-size: 12px;
+  box-sizing: border-box;
+}
+
+.uiSliderSitePersonRole {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 3px 0px 3px 0px;
+  color: #333;
+
+  box-sizing: border-box;
+}
+
+.uiSliderSitePersonEmail a {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 3px 0px 3px 0px;
+  color: #fa7a7a;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+/*
+SliderMultimedia: A subject container on the Multimedia Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+
+#uiSliderMultimediaOuter {
+  order: 2;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #a6c7c2;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiSliderMultimedia {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #a6c7c2;
+  width: 100%;
+  box-sizing: border-box;
+  height: fit-content;
+  color: #333;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+}
+
+/*
+MapsHistory: A subject container on the Home Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+#uiMapsHistoryOuter {
+  order: 2;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #a6c7c2;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiMapsHistory {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #a6c7c2;
+  width: 100%;
+  box-sizing: border-box;
+  height: fit-content;
+}
+
+#uiMapsHistoryHeader {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  color: #333333;
+  box-sizing: border-box;
+}
+
+#uiMapsHistoryHeaderLine1 {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  font-weight: 300;
+  font-size: 33px;
+  box-sizing: border-box;
+}
+
+#uiMapsHistoryHeaderLine2 {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  font-weight: normal;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#uiMapsHistoryEras {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  box-sizing: border-box;
+  overflow-x: auto;
+  width: 100%;
+}
+
+.uiMapsHistoryEraItem {
+  flex: 0 1 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  padding: 40px 20px 0px 20px;
+  box-sizing: border-box;
+}
+
+.uiMapsHistoryEraItemIcon {
+  order: 1;
+  flex: 0 1 auto;
+  box-sizing: border-box;
+  border: 2px solid transparent;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.uiMapsHistoryEraItemIcon:hover {
+  border-color: #fa7a7a;
+}
+
+.uiMapsHistoryEraImg {
+  border: 2px solid #fa7a7a;
+  object-fit: contain;
+  display: flex;
+}
+
+.uiMapsHistoryEraItemDate {
+  order: 2;
+  flex: 0 1 auto;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: black;
+  box-sizing: border-box;
+  padding: 35px 0px 0px 0px;
+}
+
+.uiMapsHistoryEraItemDescription {
+  order: 3;
+  flex: 0 1 auto;
+  display: flex;
+  flex-flow: row wrap;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #636363;
+  padding: 20px 0px;
+  justify-content: center;
+  box-sizing: border-box;
+  text-align: justify;
+  line-height: 26px;
+  max-width: 300px;
+  cursor: pointer;
+}
+
+/*
+MultiMedia: A subject container on the Home Page
+*/
+
+/*
+Outer is used to display the same background color when browser window is larger than a maximum
+*/
+#uiMultimediaRelationsOuter {
+  order: 3;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  height: fit-content;
+  background-color: #a6c7c2;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiMultimediaRelations {
+  padding: 70px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #a6c7c2;
+  width: 100%;
+  box-sizing: border-box;
+  height: fit-content;
+}
+
+#uiMultimediaRelationsHeader {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  color: #333333;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#uiMultimediaRelationsHeaderLine1 {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  font-weight: 300;
+  font-size: 33px;
+  box-sizing: border-box;
+}
+
+#uiMultimediaRelationsHeaderLine2 {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiMultimediaRelationsItems {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 70px 0px;
+}
+
+#uiMultimediaRelationsItemSlider {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  padding-right: 20px;
+  box-sizing: border-box;
+  width: 50%;
+  height: 400px;
+}
+
+#uiMultimediaRelationsItemSlider>li {
+  max-height: 100%;
+}
+
+#uiMultimediaRelationsItemContent {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  padding-left: 20px;
+  box-sizing: border-box;
+  max-width: 50%;
+}
+
+#uiMultimediaRelationsItemContentCategories {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  padding: 30px 0px;
+}
+
+.uiMultimediaRelationsItemContentCategoryItemLink {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 8px 0px 8px 16px;
+  cursor: pointer;
+  transition: color 0.4s ease-in;
+  color: black;
+  text-decoration: none;
+  align-items: center;
+}
+
+.uiMultimediaRelationsItemContentCategoryItem {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  cursor: pointer;
+}
+
+.uiMultimediaRelationsItemContentCategoryIcon {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 0px 15px 0px 0px;
+}
+
+.uiMultimediaRelationsItemContentCategoryLabel {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.uiMultimediaRelationsItemContentCategoryItemLink:hover {
+  color: white;
+  transition: color 0.2s ease-in;
+}
+
+#uiMultimediaRelationsItemContentTextTop {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: white;
+  text-align: left;
+}
+
+#uiMultimediaRelationsItemContentTextBottom {
+  order: 3;
+  flex: 0 0 auto;
+  display: flex;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color: #636363;
+  text-align: left;
+}
+
+/*
+Family Trees' Customization
+*/
+
+#uiFamilyTreesOuter {
+  order: 1;
+  flex: 1 0 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  background-color: #f4f0ef;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiFamilyTrees {
+  padding: 20px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 1 0 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: #f4f0ef;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/*
+Footer Area Customization
+*/
+
+#uiFooterContainer {
+  order: 9999;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box;
+  width: 100%;
+  height: 55px;
+  background-color: black;
+}
+
+#uiFooterOuter {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  background-color: transparent;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiFooter {
+  padding: 0px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: transparent;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+
+/*
+A toolbar on the left side of the Footer, mainly to assist in arranging the items
+*/
+#uiFooterCenter {
+  order: 2;
+  display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box;
+  border: hidden;
+  background-color: transparent;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 12px;
+  color: #888;
+}
+
+#uiFooterCenter a {
+  color: #888;
+  text-decoration: none;
+}
+
+/*
+A toolbar at the center of the Footer that contains support & copyright data
+*/
+#uiFooterLeft {
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  box-sizing: border-box;
+}
+
+/*
+A toolbar that contains the social media related icons at the Footer
+*/
+#uiFooterRight {
+  order: 3;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row-reverse nowrap;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+#uiGoToTheTop {
+  position: fixed;
+  right: 0px;
+  bottom: 100px;
+  width: 47px;
+  height: 47px;
+  background-color: #fa7a7a;
+  color: white;
+  box-sizing: border-box;
+  z-index: 998;
+  background-image: url("../rsc/icons/top.jpg");
+  display: none;
+}
+
+/*
+Families' Graph Customization
+*/
+
+.fgLinks line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.fgNodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.fgText {
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 16px;
+  color: orange;
+}
+
+#fgSvgCanvas {
+  order: 1;
+  flex: 1 0 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/*
+    Map Related Customization
+*/
+
+#uiMainMapContainer {
+  order: 1;
+  flex: 1 0 100%;
+  box-sizing: border-box;
+  border: none;
+  background-color: teal;
+  z-index: 991;
+  position: relative;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#mainMap {
+  order: 2;
+  flex: 1 0 auto;
+  box-sizing: border-box;
+  border: none;
+  background-color: teal;
+  z-index: 991;
+  height: 100%;
+}
+
+#uiMapLeftPanel {
+  order: 1;
+  /* width: 350px; */
+  height: 100%;
+  border: hidden;
+  z-index: 991;
+  opacity: 1;
+  padding: 0px;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #537289;
+  box-sizing: border-box;
+  cursor: auto;
+}
+
+#uiMapInfoContainer {
+  height: auto;
+  border: hidden;
+  z-index: 999;
+  position: absolute;
+  top: 8px;
+  right: 15px;
+  opacity: 1;
+  padding: 0px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: column nowrap;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: auto;
+  animation-name: uiMapInfoContainerAnim;
+  animation-duration: 2.5s;
+  animation-delay: 2s;
+  animation-timing-function: ease-out;
+}
+
+#uiMapPeriodSelectorContainer {
+  height: auto;
+  border: hidden;
+  z-index: 992;
+  position: absolute;
+  top: 12px;
+  right: 70px;
+  opacity: 1;
+  padding: 0px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: row nowrap;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+#uiMapPeriodSelectorContainer:hover {
+  opacity: 1;
+}
+
+.mapPeriodOption {
+  flex: 1 1 auto;
+  background-color: #a6c7c2;
+  color: white;
+  border: #646464;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px;
+  margin: 1px;
+  font-size: 15px;
+  transition: all 400ms;
+}
+
+.mapPeriodOption:hover {
+  background-color: #207064;
+  font-size: 14px;
+}
+
+.mapPeriodUnknownSwitch {
+  flex: 1 1 auto;
+  background-color: #a6c7c2;
+  color: white;
+  border: #646464;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px;
+  margin: 1px;
+  font-size: 12px;
+}
+
+.mapPeriodUnknownSwitchChecked {
+  background-color: #ffa0a0;
+}
+
+.mapPeriodOptionSelected {
+  background-color: #fa7a7a;
+}
+
+@keyframes uiMapInfoContainerAnim {
+  0% {
+    transform: scale(1, 1);
+    top: 8px;
+    right: 15px;
+  }
+
+  50% {
+    transform: scale(2, 2);
+    top: 85px;
+    right: 120px;
+  }
+
+  100% {
+    transform: scale(1, 1);
+    top: 8px;
+    right: 15px;
+  }
+}
+
+.marker-cluster-home {
+  background-color: rgba(245, 192, 192, 0.6);
+}
+
+.marker-cluster-home div {
+  background-color: rgba(250, 122, 122, 1);
+}
+
+.marker-cluster-homeRing {
+  background-color: rgba(255, 0, 0, 0.25);
+}
+
+.marker-cluster-homeRing div {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.marker-synagogue {
+  background-color: rgba(192, 245, 192, 0.6);
+}
+
+.marker-synagogue div {
+  background-color: rgba(122, 250, 122, 1);
+}
+
+.marker-synagogueRing {
+  background-color: rgba(0, 255, 0, 0.25);
+}
+
+.marker-synagogueRing div {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+#uiMapLPFilters {
+  order: 1;
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  padding: 23px 20px 9px 20px;
+  width: 240px;
+}
+
+#uiMapLPSelectLastName {
+  order: 1;
+  display: flex;
+  box-sizing: border-box;
+  margin: 7px 0px;
+  padding: 5px 10px 5px 10px;
+  border: hidden;
+  border-radius: 25px;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  background: darkgrey;
+  color: #efefef;
+}
+
+#uiMapLPSelectHousehold {
+  order: 2;
+  display: flex;
+  box-sizing: border-box;
+  margin: 7px 0px;
+  padding: 5px 10px 5px 10px;
+  border: hidden;
+  border-radius: 15px;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  background: darkgrey;
+  color: #efefef;
+}
+
+#uiMapLPMultimedia {
+  order: 1;
+  padding: 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  flex: 0 0 210px;
+  width: 100%;
+}
+
+#uiMapLPMultimediaItemSliderPGW {
+  order: 1;
+  padding: 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+#uiMapLPMultimediaItemSliderPGWlist {
+  padding: 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+#uiMapLPMultimediaItemSliderPGWimg {
+  padding: 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+#uiMapLPData {
+  order: 2;
+  flex: 1 1 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 20px 20px 20px 20px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 11px;
+  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  overflow: hidden;
+  position: relative;
+}
+
+.uiMapLPPDendOfParagraph {
+  order: 9999;
+  flex: 0 0 auto;
+  width: 100%;
+  height: 30px;
+  background-image: url("../rsc/endOfParagraphDecoration.png");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
+
+.uiMapLPDataPanel {
+  order: 1;
+  flex: 1 1 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  width: 100%;
+  overflow: hidden;
+}
+
+#uiMapLPDPTitle {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0px;
+  padding: 10px 0px 15px 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-weight: 600;
+  font-size: 11px;
+  width: 100%;
+}
+
+.uiMapLPDPHDSection {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  border: hidden;
+}
+
+#uiMapLPDPHDSection1 {
+  order: 2;
+}
+
+#uiMapLPDPHDSection2 {
+  order: 3;
+  flex: 0 1 100%;
+}
+
+#uiMapLPDPHDNameValue {
+  font-weight: bold;
+}
+
+#uiMapLPDPHDMembersTitleField {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0px;
+  padding: 4px 0px 5px 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 11px;
+  width: 100%;
+  color: rgba(127, 127, 127, 1);
+}
+
+#uiMapLPDPSelectPersonPanel {
+  order: 1;
+  flex: 1 1 50%;
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  width: 100%;
+}
+
+#uiMapLPDPPersonsList {
+  order: 1;
+  flex: 1 1 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 0px;
+  padding: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  width: 100%;
+  overflow-y: auto;
+}
+
+.uiMapLPPDPersonItem {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0px;
+  padding: 5px 0px 5px 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 16px;
+  width: 100%;
+  color: #cffffc;
+  background-color: transparent;
+}
+
+.uiMapLPPDPersonItem:hover {
+  background-color: #294144;
+}
+
+#uiMapLPDPPersonalDataPanel {
+  box-sizing: border-box;
+  padding: 10px;
+  z-index: 9998;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(87, 114, 138, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  backdrop-filter: blur(2px);
+  display: none;
+  overflow-y: scroll;
+}
+
+#uiMapLPDPPersonalDataContainer {
+  order: 2;
+  flex: 0 1 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 11px;
+  width: 100%;
+  height: 100%;
+
+  overflow-y: auto;
+}
+
+#uiMapLPDPHouseholdDataPanel {
+  order: 1;
+  flex: 0 1 auto;
+  display: none;
+  flex-flow: column nowrap;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 11px;
+  width: 100%;
+  height: 100%;
+}
+
+.uiMapLPDPField {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 4px 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+
+.uiMapLPDPLabel {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0px;
+  margin: 0px 5px 0px 0px;
+  border: hidden;
+  box-sizing: border-box;
+  color: #7f7f7f;
+}
+
+.uiMapLPDPValue {
+  order: 2;
+  flex: 0 1 auto;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+  color: #fa7a7a;
+}
+
+.uiMapLPDPValueListItem {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 0px 10px 0px 0px;
+  margin: 0px;
+  border: hidden;
+  box-sizing: border-box;
+}
+
+#uiMapLPDPNamesValue {
+  font-weight: bold;
+}
+
+.uiPopupInfo {
+  height: fit-content;
+  margin-bottom: 10px;
+}
+
+.uiPopupImg {
+  border-radius: 12px 12px 0px 0px;
+  width: 200px;
+  height: 140px;
+  object-fit: cover;
+  border: hidden;
+}
+
+.uiPopupMMicon {
+  width: 14px;
+  height: 14px;
+  object-fit: contain;
+  margin-left: 2px;
+}
+
+.uiPopupMMicons {
+  display: block;
+  float: right;
+  box-sizing: border-box;
+  height: 12px;
+  width: auto;
+  padding: 0px 15px 10px 15px;
+  clear: both;
+}
+
+.uiPopupAddress {
+  display: block;
+  max-width: 100%;
+  padding: 0px 15px 5px 15px;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: black;
+  clear: both;
+}
+
+.uiPopupHousehold {
+  display: block;
+  max-width: 100%;
+  padding: 0px 15px;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  color: #777777;
+  clear: both;
+  cursor: pointer;
+}
+
+.uiPopupHousehold:hover {
+  color: black;
+}
+
+/*
+    Relations' Graph
+*/
+
+#uiRelationsContainer {
+  order: 1;
+  flex: 1 0 auto;
+  box-sizing: border-box;
+  border: none;
+  background-color: grey;
+  z-index: 997;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#uiRelationsLeftPanelContainer {
+  order: 1;
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  border: none;
+  background-color: transparent;
+  display: flex;
+  flex-flow: column nowrap;
+  /* width: 400px; */
+  position: relative;
+}
+
+#uiGraphContainer {
+  order: 2;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  background-color: grey;
+}
+
+#mainGraph {
+  flex: 1 0 100%;
+  box-sizing: border-box;
+  border: none;
+  background-color: teal;
+}
+
+#svgRelationsCanvas {
+  width: 100%;
+  height: 100%;
+}
+
+.relationsLinks line {
+  stroke: #ccc;
+  stroke-opacity: 0.6;
+}
+
+.relationsNodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 10px;
+}
+
+/*
+The Navigator panel for the Editor stays always on the top of the screen
+Includes the site's logo, and the main menu
+*/
+#uiEditNavigatorOuter {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  min-width: 1250px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  box-sizing: border-box;
+  height: 130px;
+  border: hidden;
+  background-color: #cac1af;
+  z-index: 999;
+  justify-content: center;
+}
+
+#uiEditNavigator {
+  order: 1;
+  display: flex;
+  flex-flow: column nowrap;
+  box-sizing: border-box;
+  width: 100%;
+  height: 120px;
+  border: hidden;
+  background-color: transparent;
+  z-index: 999;
+  padding: 0px 95px;
+  max-width: 1600px;
+}
+
+/*
+The top line of the Navigator panel is dedicated to the social media, communication by email, and the language selector 
+*/
+#uiEditNavigatorSocial {
+  order: 1;
+  width: 100%;
+  height: 30px;
+  box-sizing: border-box;
+  border-bottom: solid 1px #fa7a7a;
+  display: flex;
+  flex-flow: row nowrap;
+  flex-direction: row;
+  padding: 0px;
+  justify-content: space-between;
+}
+
+/*
+A toolbar that contains the social media related icons at the Navigation Ribbon
+*/
+#uiEditSocialMedia {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row-reverse nowrap;
+  box-sizing: border-box;
+  width: 120px;
+}
+
+/*
+The second line of the Navigation Panel
+*/
+#uiEditNavigatorMain {
+  order: 2;
+  width: 100%;
+  height: 90px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+/*
+Editor's Footer Area Customization
+*/
+
+#uiEditFooterContainer {
+  order: 9999;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box;
+  width: 100%;
+  height: 55px;
+  background-color: black;
+}
+
+#uiEditFooterOuter {
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  background-color: transparent;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiEditFooter {
+  padding: 0px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: transparent;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+
+/*
+A toolbar on the left side of the Footer, mainly to assist in arranging the items
+*/
+#uiEditFooterCenter {
+  order: 2;
+  display: flex;
+  flex-flow: row nowrap;
+  box-sizing: border-box;
+  border: hidden;
+  background-color: transparent;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 12px;
+  color: #888;
+}
+
+#uiEditFooterCenter a {
+  color: #888;
+  text-decoration: none;
+}
+
+/*
+A toolbar at the center of the Footer that contains support & copyright data
+*/
+#uiEditFooterLeft {
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  box-sizing: border-box;
+}
+
+/*
+A toolbar that contains the social media related icons at the Footer
+*/
+#uiEditFooterRight {
+  order: 3;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row-reverse nowrap;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+#uiEditContainer {
+  order: 1;
+  flex: 1 0 auto;
+  box-sizing: border-box;
+  border: none;
+  background-color: grey;
+  z-index: 0;
+  display: flex;
+  flex-flow: row nowrap;
+  color: white;
+}
+
+#uiEditMainOuter {
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  background-color: grey;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+#uiEditMain {
+  padding: 40px 95px 20px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: transparent;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#uiEditLogin {
+  padding: 20px 95px 10px 95px;
+  max-width: 1600px;
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: transparent;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#uiEditLoginLeft {
+  padding: 0px 20px 0px 0px;
+  order: 1;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: transparent;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+
+#uiEditLoginRight {
+  padding: 0px 0px 0px 20px;
+  order: 2;
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: column wrap;
+  background-color: transparent;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: flex-start;
+  overflow-y: auto;
+  max-height: 800px;
+}
+
+.uiEditLoginItem {
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  border: 0px ridge black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px 30px 20px 30px;
+  box-sizing: border-box;
+  color: grey;
+  transition: box-shadow 0.7s ease-out;
+  height: fit-content;
+  width: fit-content;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.uiEditLoginItem .uiEditLoginItemIcon {
+  filter: grayscale(50%);
+  transition: filter 0.7s ease-out;
+}
+
+.uiEditLoginItem:hover {
+  border-color: orange;
+  transition: box-shadow 0s;
+  box-shadow: 0px 0px 16px 5px rgba(255, 200, 200, 0.25);
+}
+
+.uiEditLoginItem:hover .uiEditLoginItemIcon {
+  filter: grayscale(25%);
+  transition: filter 0.7s ease-out;
+}
+
+.uiEditLoginItem:hover .uiEditLoginItemLabel {
+  color: moccasin;
+  transition: color 0.7s ease-out;
+}
+
+.uiEditLoginItemIcon {
+  display: flex;
+  flex: 0 1 auto;
+  box-sizing: content-box;
+  filter: grayscale(100%);
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.uiEditLoginItemIconImg {
+  display: flex;
+  object-fit: contain;
+  border: hidden;
+  margin: 0px;
+  padding: 0px;
+  height: 80px;
+}
+
+.uiEditLoginItemLabel {
+  flex: 0 0 auto;
+  order: 2;
+  box-sizing: border-box;
+  color: lightgrey;
+  text-align: center;
+  font-size: 18px;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
+  transition: color 0.7s ease-out;
+}
+
+@keyframes uiOverlayUnderDevelopment {
+  from {
+    opacity: 1;
+    font-size: 3em;
+  }
+
+  to {
+    opacity: 0.2;
+    font-size: 1.6em;
+  }
+}
+
+#uiOverlayDevelopment {
+  display: flex;
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 80px;
+  left: 400px;
+  background-color: red;
+  color: yellow;
+  z-index: 20000;
+  font-size: 1.6em;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
+  padding: 6px;
+  animation-name: uiOverlayUnderDevelopment;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  opacity: 0.2;
+}
+
+#uiOverlayDevelopment2 {
+  display: flex;
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: red;
+  color: yellow;
+  z-index: 20001;
+  font-size: 12em;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.6);
+  padding: 60px;
+  animation-name: uiOverlayUnderDevelopment;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  opacity: 0.4;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.jqui-tooltip {
+  padding: 16px;
+  position: absolute;
+  z-index: 9999;
+  max-width: 50%;
+  font-size: 15px;
+  background-color: ghostwhite;
+  border-color: #333;
+  border-radius: 10px;
+  border-width: 2px;
+}
+
+.jqui-tooltip a {
+  color: blue;
+}
+
+.marker {
+  background-image: url("../rsc/icons/dwennimmen.png");
+  background-size: contain;
+  width: 9px;
+  height: 10px;
+  border-radius: 20%;
+  cursor: pointer;
+  box-shadow: 0px 0px 16px #a9c7c2;
+}
+
+.hiddenByPeriod {
+  display: none;
+}
+
+#uiMapPDPPPersonalDataPanelPersonDetailsFlex {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-size: 14pt;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  padding: 20px;
+  background-color: #ffffff1a;
+  backdrop-filter: blur(2px);
+}
+
+#uiMapPDPPPersonalDataPanelPersonDetailsFlexClose {
+  box-sizing: border-box;
+  text-align: right;
+  cursor: pointer;
+  color: #e68788;
+  margin-bottom: 10px;
+}
+
+.uiMapLPPersonalDetailsLabel {
+  font-size: 14pt;
+  color: #c9f1eb;
+  padding: 16px 0px 0px 0px;
+}
+
+/* .uiMapLPPersonalDetails {
+  font-size: 14pt;
+  color: #c9f1eb;
+  /* color: #fff; */
+/* } */
+
+#uiMapLPBirth,
+#uiMapLPDeath,
+#uiMapLPOccupations,
+#uiMapLPAddresses,
+#uiMapLPCitizenships,
+#uiMapLPPublicComments,
+.uiMapLPPersonalDetails {
+  color: #ffd7b3;
+  font-size: 14pt;
+}
+
+#uiMapLPMultimediaRelations {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#uiMapLPMultimediaRelations img {
+  padding: 15px;
+  width: 25px;
+  height: 25px;
+  box-sizing: content-box;
+  filter: brightness(0.4) invert(1);
+  cursor: pointer;
+}
+
+#uiMapLPMultimediaRelations img:hover {
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.6);
+}
+
+.marker:hover {
+  width: 27px;
+  height: 30px;
+}
+
+.mapboxgl-popup-content {
+  z-index: "1";
+  color: #cffffc;
+  background-color: #537289;
+  font-size: 16px;
+  font-family: "LinLibertine_DR", sans-serif;
+  max-height: 400px;
+  /* Adjust to your desired height */
+  overflow-y: auto;
+  /* Adds vertical scrollbar if content exceeds max-height */
+  overflow-x: hidden;
+}
+
+p,
+#uiMultimediaRelationsItemContentTextBottom,
+#uiMultimediaRelationsItemContentTextTop,
+#ui5r1c1text,
+#ui5r2c1text,
+#ui5r2c3r2,
+#ui5r2c3r3,
+#uiMapInfoContainer,
+.jqui-tooltip {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.pdf {
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  position: absolute;
+  top: 900%;
+  left: -70%;
+  transform: translate(-50%, -50%);
+  text-align: justify;
+  text-justify: center;
+  color: #cffffc;
+  background-color: #537289;
+  box-sizing: border-box;
+  padding: 35px;
+  z-index: "1";
+  display: none;
+  font-size: 0.8em !important;
+  /*to hide popup initially*/
+}
+
+.close-btn {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+/* #uiSliderResearchRow2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
