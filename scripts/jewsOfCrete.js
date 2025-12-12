@@ -14,7 +14,7 @@ var config = {
   pathOfMultimedia: "./rsc/multimedia/original/", // The path where the original multimedia files are available
   pathOfSmallImages: "./rsc/multimedia/small/", // The path where the images for the popups and the left panel are available
   pathOfThumbnailImages: "./rsc/multimedia/thumbnails/", // The path where the images for the thumbnails are available
-  api_server: "",
+  api_server: ".",
   sliderMapOptions: {
     displayList: false,
     intervalDuration: 5000,
