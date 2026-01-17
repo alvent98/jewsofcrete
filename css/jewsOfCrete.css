@@ -444,16 +444,16 @@ Outer is used to display the same background color when browser window is larger
   flex: 0 0 auto;
   width: 40%;
   display: flex;
-  flex-flow: row nowrap;
+  flex-direction: column;
   justify-content: center;
-  align-content: center;
+  align-items: center;    
 }
 
 #uiSliderRightImg {
-  order: 1;
-  object-fit: contain;
   width: 70%;
-  height: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
 }
 
 #uiSliderLeftMoreButtonLink {
@@ -593,6 +593,31 @@ Outer is used to display the same background color when browser window is larger
   font-size: 14px;
   font-weight: normal;
   line-height: 24px;
+}
+
+#ui5r2c5Caption {
+  order: 2;
+  flex: 0 1 auto;
+  flex-flow: row nowrap;
+  text-align: center;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+  align-self: flex-start; /* Aligns the element to the start of the container */
+  margin-top: -100%; /* Adds a small margin to create space below the image */
+}
+
+#uiSliderRightImgCaption {
+  order: 2;
+  flex: 0 1 auto;
+  /* flex-flow: row nowrap; */
+  text-align: center;
+  font-family: "LinLibertine_DR", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+  align-self: flex-end;
 }
 
 #uiSliderResearchRow2 {
