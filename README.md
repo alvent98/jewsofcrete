@@ -7,5 +7,5 @@
 Daphne Lappa and Katerina Anagnostaki, the historians who conceived and implemented the idea, own the copyright and management rights of this project.
 Michael Tziotis created the code and owns the copyright. Alexander Ventoura made additions and revisions to the code.
 Angeliki Grevia designed the website.
-Daphne Lappa and Katerina Anagnostaki conducted the research. Alexander Ventoura conducted additional genealogical research.
+Daphne Lappa and Katerina Anagnostaki conducted the research. Alexander Ventura conducted additional genealogical research.
 The copyright of the photographs and audio and audiovisual files included on the website belongs to the institution, family archive or individual mentioned in the caption of each file.
