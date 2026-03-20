@@ -1507,33 +1507,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0372",
-            "firstname": "Esthir (Sterina)",
-            "lastnames": [
-                "Betsika"
-            ],
-            "gender": "Female",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021}",
-            "residenceDate": "[\"1943\"]",
-            "residencePeriods": "{1}",
-            "period1residence": "[\"L0021\"]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Betsikas Leon and Hanna"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0369",
             "firstname": "Perla",
             "lastnames": [
@@ -5835,33 +5808,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0007",
-            "firstname": "Iosif",
-            "lastnames": [
-                "Habib"
-            ],
-            "gender": "Male",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 3,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Ganis Samouil and Rahil"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0524",
             "firstname": "Avraam",
             "lastnames": [
@@ -7669,33 +7615,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0208",
-            "firstname": "Nissim",
-            "lastnames": [
-                "Ishakis"
-            ],
-            "gender": "Male",
-            "birthDate": 1868,
-            "birthLocation": "Hania",
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Ishakis Daniil and Zafira"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0191",
             "firstname": "Samouil",
             "lastnames": [
@@ -7840,34 +7759,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0263",
-            "firstname": "Yesoulah",
-            "lastnames": [
-                "Ishakis"
-            ],
-            "gender": "Male",
-            "birthDate": 1910,
-            "birthLocation": "Ioannina",
-            "deathDate": 1950,
-            "deathLocation": "Kalamata",
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021,L0033}",
-            "residenceDate": "[\"1939-1943\",\"1943-1945\"]",
-            "residencePeriods": "{1,{1,2}}",
-            "period1residence": "[\"L0021\",\"L0033\"]",
-            "period2residence": "[\"L0033\"]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Koen Saoul and Behora",
-"Elhais Avraam and Bona"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0336",
             "firstname": "Mafalda Mazaltof",
             "lastnames": [
@@ -7885,33 +7776,6 @@
             "citizenships": [
                 "Italian"
             ],
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Minervos Haim and [unknown]"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0337",
-            "firstname": "Veniamin",
-            "lastnames": [
-                "Kapon"
-            ],
-            "gender": "Male",
-            "birthDate": 1912,
-            "birthLocation": "Salonica",
-            "deathDate": 1996,
-            "deathLocation": "Athens",
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -9504,33 +9368,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0059",
-            "firstname": "Samouil (Sam)",
-            "lastnames": [
-                "Kostis"
-            ],
-            "gender": "Male",
-            "birthDate": "",
-            "birthLocation": "Volos",
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021,L0016}",
-            "residenceDate": "[\"\",\"\"]",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Ventouras Samouil and Violeta"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0281",
             "firstname": "Boulisa",
             "lastnames": [
@@ -9678,33 +9515,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0315",
-            "firstname": "Behora",
-            "lastnames": [
-                "Leon"
-            ],
-            "gender": "Female",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Leon Isaak and Behora"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0316",
             "firstname": "Iousouas",
             "lastnames": [
@@ -9728,33 +9538,6 @@
             "period1residence": "[\"B041\"]",
             "period2residence": "[]",
             "period1residenceName": "Kondilaki 33 (1941-1943)",
-            "relatedFamilies": [
-                "Leon Isaak and Behora"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0314",
-            "firstname": "Isaak Barzaimon",
-            "lastnames": [
-                "Leon"
-            ],
-            "gender": "Male",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
             "relatedFamilies": [
                 "Leon Isaak and Behora"
             ]
@@ -10109,37 +9892,6 @@
             "period2residence": "[]",
             "period1residenceName": "-",
             "relatedFamilies": [
-                "Koen Saoul and Behora",
-"Elhais Avraam and Bona"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0294",
-            "firstname": "Matildi",
-            "lastnames": [
-                "Levi"
-            ],
-            "gender": "Female",
-            "birthDate": 1905,
-            "birthLocation": "Hania",
-            "deathDate": 1944,
-            "deathLocation": "Sinking of 'Tanais'",
-            "survived": 0,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": [
-                "Housewife"
-            ],
-            "citizenships": null,
-            "residence": "{B040}",
-            "residenceDate": "[\"1941-1943\"]",
-            "residencePeriods": "{1}",
-            "period1residence": "[\"B040\"]",
-            "period2residence": "[]",
-            "period1residenceName": "Kondilaki 31 (1941-1943)",
-            "relatedFamilies": [
-                "Levis Moisis and [unknown]",
                 "Koen Saoul and Behora",
 "Elhais Avraam and Bona"
             ]
@@ -10646,33 +10398,6 @@
                 "Levis Moisis and [unknown]",
                 "Avigades or Avigador Tselepon and Doudou",
                 "Konen Simon and Roza"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0335",
-            "firstname": "Simon",
-            "lastnames": [
-                "Levis"
-            ],
-            "gender": "Male",
-            "birthDate": 1886,
-            "birthLocation": null,
-            "deathDate": 1954,
-            "deathLocation": null,
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Minervos Haim and [unknown]"
             ]
         },
         {
@@ -11579,33 +11304,6 @@
             "relatedFamilies": [
                 "Minervos Haim and [unknown]",
                 "Minervos Iosif and Simha"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0349",
-            "firstname": "Sofia",
-            "lastnames": [
-                "Minervou"
-            ],
-            "gender": "Female",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": "",
-            "livedInCreteAfterWW2": "",
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Minervos Haim and [unknown]"
             ]
         },
         {
@@ -14194,33 +13892,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0051",
-            "firstname": "Samouil (Sam)",
-            "lastnames": [
-                "Sidis"
-            ],
-            "gender": "Male",
-            "birthDate": 1904,
-            "birthLocation": "Karditsa",
-            "deathDate": 1944,
-            "deathLocation": "Poland",
-            "survived": 0,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Ventouras Samouil and Violeta"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0444",
             "firstname": "Meriam",
             "lastnames": [
@@ -14784,33 +14455,6 @@
             "deathDate": "",
             "deathLocation": null,
             "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Ventouras Samouil and Violeta"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0058",
-            "firstname": "Rita",
-            "lastnames": [
-                "Ventoura"
-            ],
-            "gender": "Female",
-            "birthDate": 1948,
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 1,
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,

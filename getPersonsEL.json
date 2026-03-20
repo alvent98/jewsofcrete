@@ -1684,33 +1684,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0058",
-            "firstname": "Ρίτα",
-            "lastnames": [
-                "Βεντούρα"
-            ],
-            "gender": "Γυναίκα",
-            "birthDate": 1948,
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Βεντούρας Σαμουήλ και Βιολέτα"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0041",
             "firstname": "Ρεβέκκα",
             "lastnames": [
@@ -6011,34 +5984,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0263",
-            "firstname": "Γεσουλάχ",
-            "lastnames": [
-                "Ισχακής"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": 1910,
-            "birthLocation": "Ιωάννινα",
-            "deathDate": 1950,
-            "deathLocation": "Καλαμάτα",
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021,L0033}",
-            "residenceDate": "[\"1939-1943\",\"1943-1945\"]",
-            "residencePeriods": "{1,{1,2}}",
-            "period1residence": "[\"L0021\",\"L0033\"]",
-            "period2residence": "[\"L0033\"]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0176",
             "firstname": "Δανιήλ",
             "lastnames": [
@@ -6632,33 +6577,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0208",
-            "firstname": "Νισσήμ",
-            "lastnames": [
-                "Ισχακής"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": 1868,
-            "birthLocation": "Χανιά",
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Ισχακής Δανιήλ και Ζαφείρα"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0184",
             "firstname": "Σίμων",
             "lastnames": [
@@ -6799,33 +6717,6 @@
             "relatedFamilies": [
                 "Ισχακής Δανιήλ και Ζαφείρα",
                 "Κοέν Αβραάμ και Ρεβέκκα"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0337",
-            "firstname": "Βενιαμίν",
-            "lastnames": [
-                "Καπόν"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": 1912,
-            "birthLocation": "Θεσσαλονίκη",
-            "deathDate": 1996,
-            "deathLocation": "Αθήνα",
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Μινέρβος Χαΐμ και [άγνωστη]"
             ]
         },
         {
@@ -8586,33 +8477,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0059",
-            "firstname": "Σαμουήλ (Σαμ)",
-            "lastnames": [
-                "Κωστής"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": "",
-            "birthLocation": "Βόλος",
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021,L0016}",
-            "residenceDate": "[\"\",\"\"]",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Βεντούρας Σαμουήλ και Βιολέτα"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0306",
             "firstname": "",
             "lastnames": [
@@ -8992,37 +8856,6 @@
             "period2residence": "[]",
             "period1residenceName": "-",
             "relatedFamilies": [
-                "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0294",
-            "firstname": "Ματίλδη",
-            "lastnames": [
-                "Λεβή"
-            ],
-            "gender": "Γυναίκα",
-            "birthDate": 1905,
-            "birthLocation": "Χανιά",
-            "deathDate": 1944,
-            "deathLocation": "Ναυάγιο 'Τάναϊς'",
-            "survived": 0,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": [
-                "Οικιακά"
-            ],
-            "citizenships": null,
-            "residence": "{B040}",
-            "residenceDate": "[\"1941-1943\"]",
-            "residencePeriods": "{1}",
-            "period1residence": "[\"B040\"]",
-            "period2residence": "[]",
-            "period1residenceName": "Κονδυλάκη 31 (1941-1943)",
-            "relatedFamilies": [
-                "Λεβής Μωυσής και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
 "Ελχάις Αβραάμ και Μπόνα"
             ]
@@ -9473,60 +9306,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0335",
-            "firstname": "Σίμων",
-            "lastnames": [
-                "Λεβής"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": 1886,
-            "birthLocation": null,
-            "deathDate": 1954,
-            "deathLocation": null,
-            "survived": 1,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Μινέρβος Χαΐμ και [άγνωστη]"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0315",
-            "firstname": "Μπεχόρα",
-            "lastnames": [
-                "Λεών"
-            ],
-            "gender": "Γυναίκα",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Λεών Ισαάκ και Μπεχόρα"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0316",
             "firstname": "Ιουσούας",
             "lastnames": [
@@ -9550,33 +9329,6 @@
             "period1residence": "[\"B041\"]",
             "period2residence": "[]",
             "period1residenceName": "Κονδυλάκη 33 (1941-1943)",
-            "relatedFamilies": [
-                "Λεών Ισαάκ και Μπεχόρα"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0314",
-            "firstname": "Ισαάκ Μπαρζαημόν",
-            "lastnames": [
-                "Λεών"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
             "relatedFamilies": [
                 "Λεών Ισαάκ και Μπεχόρα"
             ]
@@ -10720,33 +10472,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0349",
-            "firstname": "Σοφία",
-            "lastnames": [
-                "Μινέρβου"
-            ],
-            "gender": "Γυναίκα",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": "",
-            "livedInCreteAfterWW2": "",
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Μινέρβος Χαΐμ και [άγνωστη]"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0363",
             "firstname": "Αλέγρα",
             "lastnames": [
@@ -11032,33 +10757,6 @@
             "type": "Feature",
             "id": "P0371",
             "firstname": "Άννα",
-            "lastnames": [
-                "Μπέτσικα"
-            ],
-            "gender": "Γυναίκα",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021}",
-            "residenceDate": "[\"1943\"]",
-            "residencePeriods": "{1}",
-            "period1residence": "[\"L0021\"]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Μπέτσικας Λεών και Χανά"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0372",
-            "firstname": "Εσθήρ (Στερίνα)",
             "lastnames": [
                 "Μπέτσικα"
             ],
@@ -13322,33 +13020,6 @@
         },
         {
             "type": "Feature",
-            "id": "P0051",
-            "firstname": "Σαμουήλ (Σαμ)",
-            "lastnames": [
-                "Σίδης"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": 1904,
-            "birthLocation": "Καρδίτσα",
-            "deathDate": 1944,
-            "deathLocation": "Πολωνία",
-            "survived": 0,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Βεντούρας Σαμουήλ και Βιολέτα"
-            ]
-        },
-        {
-            "type": "Feature",
             "id": "P0444",
             "firstname": "Μεριάμ",
             "lastnames": [
@@ -14653,33 +14324,6 @@
             "period1residenceName": "Θεοφάνους 13 (1941-1943)",
             "relatedFamilies": [
                 "Φράγκος Δαβίδ και [άγνωστη]"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0007",
-            "firstname": "Ιωσήφ",
-            "lastnames": [
-                "Χαμπίμπ"
-            ],
-            "gender": "Άνδρας",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 3,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "",
-            "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Άγγελ Αβραάμ και Άννα"
             ]
         },
         {
