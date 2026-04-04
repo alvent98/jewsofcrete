@@ -1483,16 +1483,16 @@
             "id": "P0371",
             "firstname": "Anna",
             "lastnames": [
-                "Betsika"
+                "Besso"
             ],
             "gender": "Female",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
+            "birthDate": 1920,
+            "birthLocation": "Hania",
+            "deathDate": 2002,
+            "deathLocation": "Israel",
             "survived": 2,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Betsika",
             "occupations": null,
             "citizenships": null,
             "residence": "{L0021}",
@@ -1528,33 +1528,6 @@
             "residenceDate": "",
             "residencePeriods": null,
             "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Betsikas Leon and Hanna"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0373",
-            "firstname": "Sarra",
-            "lastnames": [
-                "Betsika"
-            ],
-            "gender": "Female",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021}",
-            "residenceDate": "[\"1943\"]",
-            "residencePeriods": "{1}",
-            "period1residence": "[\"L0021\"]",
             "period2residence": "[]",
             "period1residenceName": "-",
             "relatedFamilies": [
@@ -2650,6 +2623,33 @@
             "period1residenceName": "-",
             "relatedFamilies": [
                 "Dientes Avraam and Doltsa"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0373",
+            "firstname": "Sarra",
+            "lastnames": [
+                "Diente"
+            ],
+            "gender": "Female",
+            "birthDate": 1933,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "birth surname Betsika",
+            "occupations": null,
+            "citizenships": null,
+            "residence": "{L0021}",
+            "residenceDate": "[\"1943\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"L0021\"]",
+            "period2residence": "[]",
+            "period1residenceName": "-",
+            "relatedFamilies": [
+                "Betsikas Leon and Hanna"
             ]
         },
         {
@@ -7771,7 +7771,7 @@
             "deathLocation": "Athens",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Minervou",
             "occupations": null,
             "citizenships": [
                 "Italian"
@@ -8885,7 +8885,7 @@
             "deathLocation": "Poland",
             "survived": 0,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Pinha",
             "occupations": null,
             "citizenships": null,
             "residence": "",
@@ -9574,7 +9574,7 @@
         {
             "type": "Feature",
             "id": "P0306",
-            "firstname": "",
+            "firstname": "infant",
             "lastnames": [
                 "Levi"
             ],
@@ -9585,7 +9585,7 @@
             "deathLocation": "Sinking of 'Tanais'",
             "survived": 0,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "child of Pihas and Roza. Arrested in the age of 2 months. Official records do not include a name.",
             "occupations": null,
             "citizenships": null,
             "residence": "{B052}",
@@ -9672,7 +9672,7 @@
             "deathLocation": null,
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Minervou",
             "occupations": null,
             "citizenships": [
                 "Italian"
@@ -10414,7 +10414,7 @@
             "deathLocation": null,
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Levi",
             "occupations": [
                 "Laborer"
             ],
@@ -13989,7 +13989,7 @@
             "deathLocation": null,
             "survived": 2,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Treveza",
             "occupations": [
                 "Laborer"
             ],
@@ -14013,13 +14013,13 @@
                 "Treveza"
             ],
             "gender": "Female",
-            "birthDate": "",
+            "birthDate": 1923,
             "birthLocation": "Hania",
-            "deathDate": "",
+            "deathDate": 2011,
             "deathLocation": "Athens",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Betsika",
             "occupations": null,
             "citizenships": null,
             "residence": "{L0021}",
@@ -14044,11 +14044,11 @@
             "gender": "Female",
             "birthDate": 1880,
             "birthLocation": "Hania",
-            "deathDate": "",
+            "deathDate": 1954,
             "deathLocation": "Athens",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Mordou",
             "occupations": [
                 "Housewife"
             ],
@@ -14165,7 +14165,7 @@
             "gender": "Male",
             "birthDate": 1921,
             "birthLocation": "Hania",
-            "deathDate": "",
+            "deathDate": 1985,
             "deathLocation": "Athens",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
@@ -14783,7 +14783,7 @@
             "deathLocation": "Athens",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "birth surname Politi",
             "occupations": [
                 "Housewife"
             ],

@@ -1994,7 +1994,7 @@
             "deathLocation": "Αθήνα",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Πολίτη",
             "occupations": [
                 "Οικιακά"
             ],
@@ -3699,6 +3699,33 @@
             "period1residenceName": "-",
             "relatedFamilies": [
                 "Διέντες Αβραάμ και Ντόλτσα"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0373",
+            "firstname": "Σάρρα",
+            "lastnames": [
+                "Διέντε"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": 1933,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "επώνυμο γέννησης Μπέτσικα",
+            "occupations": null,
+            "citizenships": null,
+            "residence": "{L0021}",
+            "residenceDate": "[\"1943\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"L0021\"]",
+            "period2residence": "[]",
+            "period1residenceName": "-",
+            "relatedFamilies": [
+                "Μπέτσικας Λεών και Χανά"
             ]
         },
         {
@@ -6733,7 +6760,7 @@
             "deathLocation": "Αθήνα",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Μινέρβου",
             "occupations": null,
             "citizenships": [
                 "Ιταλική"
@@ -7905,7 +7932,7 @@
             "deathLocation": "Πολωνία",
             "survived": 0,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Πίγχα",
             "occupations": null,
             "citizenships": null,
             "residence": "",
@@ -8478,7 +8505,7 @@
         {
             "type": "Feature",
             "id": "P0306",
-            "firstname": "",
+            "firstname": "βρέφος",
             "lastnames": [
                 "Λεβή"
             ],
@@ -8489,7 +8516,7 @@
             "deathLocation": "Ναυάγιο 'Τάναϊς'",
             "survived": 0,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "παιδί Πήχα και Ρόζας. Μπήκε στο Τάναϊς 2 μηνών,δεν είχε δηλωμένο όνομα",
             "occupations": null,
             "citizenships": null,
             "residence": "{B052}",
@@ -8607,7 +8634,7 @@
             "deathLocation": null,
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Μινέρβου",
             "occupations": null,
             "citizenships": [
                 "Ιταλική"
@@ -9376,7 +9403,7 @@
             "deathLocation": null,
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Λεβή",
             "occupations": [
                 "Εργάτρια"
             ],
@@ -10758,16 +10785,16 @@
             "id": "P0371",
             "firstname": "Άννα",
             "lastnames": [
-                "Μπέτσικα"
+                "Μπέσσο"
             ],
             "gender": "Γυναίκα",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
+            "birthDate": 1920,
+            "birthLocation": "Χανιά",
+            "deathDate": 2002,
+            "deathLocation": "Ισραήλ",
             "survived": 2,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Μπέτσικα",
             "occupations": null,
             "citizenships": null,
             "residence": "{L0021}",
@@ -10803,33 +10830,6 @@
             "residenceDate": "",
             "residencePeriods": null,
             "period1residence": "[]",
-            "period2residence": "[]",
-            "period1residenceName": "-",
-            "relatedFamilies": [
-                "Μπέτσικας Λεών και Χανά"
-            ]
-        },
-        {
-            "type": "Feature",
-            "id": "P0373",
-            "firstname": "Σάρρα",
-            "lastnames": [
-                "Μπέτσικα"
-            ],
-            "gender": "Γυναίκα",
-            "birthDate": "",
-            "birthLocation": null,
-            "deathDate": "",
-            "deathLocation": null,
-            "survived": 2,
-            "livedInCreteAfterWW2": 0,
-            "publicComments": "",
-            "occupations": null,
-            "citizenships": null,
-            "residence": "{L0021}",
-            "residenceDate": "[\"1943\"]",
-            "residencePeriods": "{1}",
-            "period1residence": "[\"L0021\"]",
             "period2residence": "[]",
             "period1residenceName": "-",
             "relatedFamilies": [
@@ -13117,7 +13117,7 @@
             "deathLocation": null,
             "survived": 2,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Τρεβέζα",
             "occupations": [
                 "Εργάτρια"
             ],
@@ -13173,11 +13173,11 @@
             "gender": "Γυναίκα",
             "birthDate": 1880,
             "birthLocation": "Χανιά",
-            "deathDate": "",
+            "deathDate": 1954,
             "deathLocation": "Αθήνα",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Μόρδου",
             "occupations": [
                 "Οικιακά"
             ],
@@ -13201,13 +13201,13 @@
                 "Τρέβεζα"
             ],
             "gender": "Γυναίκα",
-            "birthDate": "",
+            "birthDate": 1923,
             "birthLocation": "Χανιά",
-            "deathDate": "",
+            "deathDate": 2011,
             "deathLocation": "Αθήνα",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "",
+            "publicComments": "επώνυμο γέννησης Μπέτσικα",
             "occupations": null,
             "citizenships": null,
             "residence": "{L0021}",
@@ -13293,7 +13293,7 @@
             "gender": "Άνδρας",
             "birthDate": 1921,
             "birthLocation": "Χανιά",
-            "deathDate": "",
+            "deathDate": 1985,
             "deathLocation": "Αθήνα",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
