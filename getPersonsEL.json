@@ -45,7 +45,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -75,7 +77,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1936\"]",
             "residencePeriods": "{1}",
@@ -103,7 +107,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -131,7 +137,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -161,7 +169,9 @@
             "occupations": [
                 "Μεταπράτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1931\"]",
             "residencePeriods": "{1}",
@@ -189,7 +199,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -220,7 +232,9 @@
                 "Εμποροϋπάλληλος",
                 "Σερβιτόρος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B085}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -278,7 +292,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -305,7 +321,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -361,7 +379,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B082}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -391,7 +411,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -421,7 +443,9 @@
             "occupations": [
                 "Υφασματέμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072}",
             "residenceDate": "[\"1940\"]",
             "residencePeriods": "{1}",
@@ -448,7 +472,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B027}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -475,7 +501,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -502,7 +530,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[\"1915\"]",
             "residencePeriods": "{1}",
@@ -556,7 +586,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[\"1915\"]",
             "residencePeriods": "{1}",
@@ -585,7 +617,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[\"1915\"]",
             "residencePeriods": "{1}",
@@ -612,7 +646,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[]",
             "residencePeriods": "{1}",
@@ -639,7 +675,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[\"1915\"]",
             "residencePeriods": "{1}",
@@ -693,7 +731,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[\"1915\"]",
             "residencePeriods": "{1}",
@@ -751,7 +791,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B068}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -761,7 +803,7 @@
             "relatedFamilies": [
                 "Αλχανάτης Δαβίδ και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -782,7 +824,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B047}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -811,7 +855,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B047}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -840,7 +886,9 @@
             "occupations": [
                 "Σαρωθροποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B047}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -869,7 +917,9 @@
             "occupations": [
                 "Οινομάγειρος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B068}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -879,7 +929,7 @@
             "relatedFamilies": [
                 "Αλχανάτης Δαβίδ και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -927,7 +977,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072}",
             "residenceDate": "[\"1931\"]",
             "residencePeriods": "{1}",
@@ -956,7 +1008,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B063}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -985,7 +1039,9 @@
             "occupations": [
                 "Γυρολόγος/Πλανόδιος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B083}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -1014,7 +1070,9 @@
             "occupations": [
                 "Ράπτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B081}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -1290,7 +1348,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -1528,7 +1588,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Λεβή",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057,L0021}",
             "residenceDate": "[\"1934\",\"1940\"]",
             "residencePeriods": "{1,1}",
@@ -1555,7 +1617,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0001,L0009}",
             "residenceDate": "[\"1922\",\"1923\"]",
             "residencePeriods": "{1,1}",
@@ -1611,7 +1675,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -1638,7 +1704,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -1754,7 +1822,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -1906,7 +1976,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0007}",
             "residenceDate": "[\"\"]",
             "residencePeriods": null,
@@ -1998,7 +2070,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B007,B034,L0021}",
             "residenceDate": "[\"1941-1943\",\"1943\",\"1944\"]",
             "residencePeriods": "{1,1,1}",
@@ -2110,7 +2184,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2141,7 +2217,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2170,7 +2248,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2197,7 +2277,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2226,7 +2308,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2253,7 +2337,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2284,7 +2370,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B076}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2311,7 +2399,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2341,7 +2431,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Φανοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2370,7 +2462,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2399,7 +2493,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2426,7 +2522,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2455,7 +2553,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2485,7 +2585,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Υφασματέμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2512,7 +2614,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2539,7 +2643,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2568,7 +2674,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -2595,7 +2703,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B037}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -2624,7 +2734,9 @@
             "occupations": [
                 "Φανοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B076}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2651,7 +2763,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B042}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -2856,7 +2970,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2886,7 +3002,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1929\"]",
             "residencePeriods": "{1}",
@@ -2914,7 +3032,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2944,7 +3064,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -2974,7 +3096,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B039}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3004,7 +3128,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B067}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3033,7 +3159,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3063,7 +3191,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3093,7 +3223,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3121,7 +3253,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3149,7 +3283,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3180,7 +3316,9 @@
                 "Λεμβούχος",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B067}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3238,7 +3376,9 @@
                 "Καφεπώλης",
                 "Σερβιτόρος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B039}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3269,7 +3409,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3299,7 +3441,9 @@
             "occupations": [
                 "Εργάτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3327,7 +3471,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3355,7 +3501,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3383,7 +3531,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B059}",
             "residenceDate": "[\"1943\",\"1944\"]",
             "residencePeriods": "{1,1}",
@@ -3411,7 +3561,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3440,7 +3592,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B066,B083}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -3469,7 +3623,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B059}",
             "residenceDate": "[\"1941-1943\",\"1944\"]",
             "residencePeriods": "{1,1}",
@@ -3497,7 +3653,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3524,7 +3682,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B059}",
             "residenceDate": "[\"1941-1943\",\"1944\"]",
             "residencePeriods": "{1,1}",
@@ -3552,7 +3712,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1935\"]",
             "residencePeriods": "{1}",
@@ -3579,7 +3741,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B066,B083}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1}",
@@ -3608,7 +3772,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3636,7 +3802,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B066,B083}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -3663,7 +3831,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B026}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3690,7 +3860,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3746,7 +3918,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B026}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3828,7 +4002,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B066,B083}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -3884,7 +4060,9 @@
             "occupations": [
                 "Γυρολόγος/Πλανόδιος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B026}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -3911,7 +4089,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B066,B083}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -3940,7 +4120,9 @@
             "occupations": [
                 "Μεταπράτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B024}",
             "residenceDate": "[\"1929\"]",
             "residencePeriods": "{1}",
@@ -3967,7 +4149,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -3996,7 +4180,9 @@
             "occupations": [
                 "Φανοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B059}",
             "residenceDate": "[\"1941-1943\",\"1944\"]",
             "residencePeriods": "{1,1}",
@@ -4028,7 +4214,9 @@
                 "Οργανοποιός",
                 "Οργανοπαίκτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B066,B083}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4084,7 +4272,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -4115,7 +4305,9 @@
                 "Έμπορος",
                 "Εργάτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -4142,7 +4334,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B059}",
             "residenceDate": "[\"1941-1943\",\"1944\"]",
             "residencePeriods": "{1,1}",
@@ -4308,7 +4502,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B009,B031}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4338,7 +4534,9 @@
             "occupations": [
                 "Αρχιραβίνος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1933\"]",
             "residencePeriods": "{1}",
@@ -4365,7 +4563,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B009,B031}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4424,7 +4624,9 @@
                 "Δάσκαλος",
                 "Ταχυδρόμος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B009,B031}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4454,7 +4656,9 @@
             "occupations": [
                 "Πολιτικός συνταξιούχος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1933\",\"1940\"]",
             "residencePeriods": "{1,1}",
@@ -4481,7 +4685,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B009,B031}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4511,7 +4717,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B060}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4539,7 +4747,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050,B084}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4571,7 +4781,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B084}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4631,7 +4843,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B010}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4662,7 +4876,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B060}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4692,7 +4908,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B064}",
             "residenceDate": "[\"1941,1942\"]",
             "residencePeriods": "{1}",
@@ -4721,7 +4939,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B010}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4752,7 +4972,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B060}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4780,7 +5002,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -4811,7 +5035,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050,B084}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4841,7 +5067,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -4872,7 +5100,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B060}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -4900,7 +5130,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "γιος Ηλία και Ρενέ, απεβίωσε στη γέννα",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B064}",
             "residenceDate": "[\"1942\"]",
             "residencePeriods": "{1}",
@@ -4928,7 +5160,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -4959,7 +5193,9 @@
             "occupations": [
                 "Κουρεύς"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050,B084}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -4989,7 +5225,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B084}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5017,7 +5255,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B010}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5048,7 +5288,9 @@
             "occupations": [
                 "Κουρεύς"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B064}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5080,7 +5322,9 @@
                 "Υδραυλικός",
                 "Φανοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -5111,7 +5355,9 @@
             "occupations": [
                 "Κουρεύς"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B010}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5143,7 +5389,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Πιλοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B084}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5173,7 +5421,9 @@
             "occupations": [
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B060}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5201,7 +5451,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B050,B084}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -5291,7 +5543,9 @@
             "occupations": [
                 "Τραπεζικός υπάλληλος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1934\"]",
             "residencePeriods": "{1}",
@@ -5405,7 +5659,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B032}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5434,7 +5690,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B070}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -5463,7 +5721,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B043}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -5494,7 +5754,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B065}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5524,7 +5786,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B043}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -5555,7 +5819,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B070}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -5584,7 +5850,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B003,B023}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -5614,7 +5882,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B006}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5644,7 +5914,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B065}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5674,7 +5946,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B085}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5704,7 +5978,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B032}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5733,7 +6009,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B031}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5762,7 +6040,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B065}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5819,7 +6099,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B003,B023}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -5849,7 +6131,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B070}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -5878,7 +6162,9 @@
             "occupations": [
                 "Οδηγός αυτοκινήτου"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -5937,7 +6223,9 @@
             "occupations": [
                 "Ράπτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B031}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -5966,7 +6254,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B043}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -5998,7 +6288,9 @@
                 "Έμπορος",
                 "Οινοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B070}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -6028,7 +6320,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B065}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -6059,7 +6353,9 @@
                 "Εμποροράπτης",
                 "Ράπτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B032}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6088,7 +6384,9 @@
             "occupations": [
                 "Άεργος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B077}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6117,7 +6415,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B003,B023}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -6207,7 +6507,9 @@
                 "Φανοποιός",
                 "Χορευτής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B056,B031}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -6236,7 +6538,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B006}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6268,7 +6572,9 @@
                 "Καραγωγεύς",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B006}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6298,7 +6604,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B095}",
             "residenceDate": "[\"1935\"]",
             "residencePeriods": "{1}",
@@ -6383,7 +6691,9 @@
             "occupations": [
                 "Μεταπράτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -6411,7 +6721,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -6441,7 +6753,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B032}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6470,7 +6784,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B003,B023}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -6498,7 +6814,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B043}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -6529,7 +6847,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B006}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6560,7 +6880,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B043}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -6591,7 +6913,9 @@
             "occupations": [
                 "Οινοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B032}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6620,7 +6944,9 @@
             "occupations": [
                 "Εργάτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B085}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6650,7 +6976,9 @@
             "occupations": [
                 "Καραγωγεύς"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B006}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6734,7 +7062,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B006}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -6825,7 +7155,9 @@
             "occupations": [
                 "Κορδελιάστρα"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072,L0021,L022,L0021}",
             "residenceDate": "[\"1924-1939\",\"1940-1944\",\"1944-1945\",\"1945-2010\"]",
             "residencePeriods": "{1,{1,2,3},2}",
@@ -6834,7 +7166,7 @@
             "period1residenceName": "Μικρής Εβραϊκής (1924-1939)",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -6856,7 +7188,9 @@
             "occupations": [
                 "Σερβιτόρος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072,L0021,B072,L0001}",
             "residenceDate": "[\"1911-1939\",\"1940-1945\",\"\",\"\"]",
             "residencePeriods": "{1,{1,2}}",
@@ -6866,7 +7200,7 @@
             "period2residenceName": "Κονδυλάκη 8",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -6885,7 +7219,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -6943,7 +7279,9 @@
             "occupations": [
                 "Καφεπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072,B026}",
             "residenceDate": "[\"1918-1939\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -6952,7 +7290,7 @@
             "period1residenceName": "Μικρής Εβραϊκής (1918-1939), Κονδυλάκη 2 (1943)",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -7028,7 +7366,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B063}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -7058,7 +7398,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B074}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -7119,7 +7461,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B057}",
             "residenceDate": "[\"1926\"]",
             "residencePeriods": "{1}",
@@ -7147,7 +7491,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -7176,7 +7522,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7207,7 +7555,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B079}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -7216,7 +7566,7 @@
             "period1residenceName": "Σκούφων 16 (1941)",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -7264,7 +7614,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B027}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -7291,7 +7643,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7320,7 +7674,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -7349,7 +7705,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7381,7 +7739,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Κουρεύς"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B027,B049}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7409,7 +7769,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -7472,7 +7834,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B063}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -7527,7 +7891,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -7558,7 +7924,9 @@
             "occupations": [
                 "Φανοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B027}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -7585,7 +7953,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B049}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -7613,7 +7983,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7644,7 +8016,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B027}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -7671,7 +8045,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7700,7 +8076,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Κοέν",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -7709,7 +8087,7 @@
             "period1residenceName": "-",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -7728,7 +8106,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B016}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7756,7 +8136,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -7787,7 +8169,9 @@
             "occupations": [
                 "Λογιστής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0021}",
             "residenceDate": "[\"\"]",
             "residencePeriods": null,
@@ -7817,7 +8201,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B027}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -7846,7 +8232,9 @@
             "occupations": [
                 "Καφεπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072,B091}",
             "residenceDate": "[\"-1932\",\"-1932\"]",
             "residencePeriods": "{1,1}",
@@ -7855,7 +8243,7 @@
             "period1residenceName": "Μικρής Εβραϊκής (-1932), Πλατεία Μαυροβουνίου (-1932)",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -7876,7 +8264,9 @@
             "occupations": [
                 "Υδραυλικός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B063,B088}",
             "residenceDate": "[\"1941-1943\",\"1944\"]",
             "residencePeriods": "{1,1}",
@@ -7906,7 +8296,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B074,B049}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -7934,7 +8326,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Πίγχα",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -7994,7 +8388,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8024,7 +8420,9 @@
             "occupations": [
                 "Ράπτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8054,7 +8452,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8084,7 +8484,9 @@
             "occupations": [
                 "Εργάτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8112,7 +8514,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8142,7 +8546,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8172,7 +8578,9 @@
             "occupations": [
                 "Κορδελιάστρα"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8202,7 +8610,9 @@
             "occupations": [
                 "Άεργος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B086}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8233,7 +8643,9 @@
                 "Εργάτρια",
                 "Ιδιωτικός υπάλληλος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B078}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8263,7 +8675,9 @@
                 "Εργάτης",
                 "Στιλβωτής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B078}",
             "residenceDate": "[\"1941-1942\"]",
             "residencePeriods": "{1}",
@@ -8292,7 +8706,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B078}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8321,7 +8737,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B078}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8350,7 +8768,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B078}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8406,7 +8826,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -8464,7 +8886,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -8518,7 +8942,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "παιδί Πήχα και Ρόζας. Μπήκε στο Τάναϊς 2 μηνών,δεν είχε δηλωμένο όνομα",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B052}",
             "residenceDate": "[\"1944\"]",
             "residencePeriods": "{1}",
@@ -8547,7 +8973,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8578,7 +9006,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025,B062}",
             "residenceDate": "[\"1937\",\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -8607,7 +9037,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8667,7 +9099,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B040}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -8677,7 +9111,7 @@
             "relatedFamilies": [
                 "Λεβής Μωυσής και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -8726,7 +9160,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B018}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -8786,7 +9222,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B020,B074}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8815,7 +9253,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B020,B074}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8825,7 +9265,7 @@
             "relatedFamilies": [
                 "Λεβής Μωυσής και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -8846,7 +9286,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8875,7 +9317,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Κοέν",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -8884,7 +9328,7 @@
             "period1residenceName": "-",
             "relatedFamilies": [
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -8903,7 +9347,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8934,7 +9380,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -8964,7 +9412,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025,B062}",
             "residenceDate": "[\"1937\",\"1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -9049,7 +9499,9 @@
             "occupations": [
                 "Παραγγελιοδόχος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B031,B048,B091}",
             "residenceDate": "[\"1941\",\"1943\",\"\"]",
             "residencePeriods": "{1,1,}",
@@ -9080,7 +9532,9 @@
                 "Άεργος",
                 "Μεταπράτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B018}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -9110,7 +9564,9 @@
             "occupations": [
                 "Εργάτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B020,B074}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9139,7 +9595,9 @@
             "occupations": [
                 "Γυρολόγος/Πλανόδιος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B025}",
             "residenceDate": "[\"1937\"]",
             "residencePeriods": "{1}",
@@ -9168,7 +9626,9 @@
             "occupations": [
                 "Φανοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B020,B074}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9197,7 +9657,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B020,B074}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9207,7 +9669,7 @@
             "relatedFamilies": [
                 "Λεβής Μωυσής και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -9226,7 +9688,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1942\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9258,7 +9722,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B040}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -9268,7 +9734,7 @@
             "relatedFamilies": [
                 "Λεβής Μωυσής και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -9287,7 +9753,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B040}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -9297,7 +9765,7 @@
             "relatedFamilies": [
                 "Λεβής Μωυσής και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -9318,7 +9786,9 @@
             "occupations": [
                 "Ηλεκτρολόγος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B051,B052}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9349,7 +9819,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B041}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -9378,7 +9850,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B041}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -9436,7 +9910,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9465,7 +9941,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -9494,7 +9972,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B015,B008}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -9550,7 +10030,9 @@
             "occupations": [
                 "Άεργος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B046}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -9698,7 +10180,9 @@
             "occupations": [
                 "Υποδηματοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B011}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -9757,7 +10241,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B090}",
             "residenceDate": "[\"1931\"]",
             "residencePeriods": "{1}",
@@ -9900,7 +10386,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B090}",
             "residenceDate": "[\"1931\"]",
             "residencePeriods": "{1}",
@@ -9961,7 +10449,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Υποδηματοποιός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B090,B002} ",
             "residenceDate": "[\"1931\",\"1937\"]",
             "residencePeriods": "{1,1}",
@@ -10077,7 +10567,9 @@
             "occupations": [
                 "Ράπτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B014}",
             "residenceDate": "[\"1928,1937\"]",
             "residencePeriods": "{1}",
@@ -10107,7 +10599,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B069}",
             "residenceDate": "[\"\"]",
             "residencePeriods": "{}",
@@ -10285,7 +10779,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B011}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -10312,7 +10808,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": "Ιταλική",
+            "citizenships": [
+                "Ιταλική"
+            ],
             "residence": "{}",
             "residenceDate": "[\"\"]",
             "residencePeriods": "{}",
@@ -10370,7 +10868,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B014}",
             "residenceDate": "[\"1928,1937,1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -10400,7 +10900,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B011}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -10485,7 +10987,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B014}",
             "residenceDate": "[\"1928,1937,1941-1943\"]",
             "residencePeriods": "{1,1}",
@@ -10540,7 +11044,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B080}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -10596,7 +11102,9 @@
             "occupations": [
                 "Ιδιωτικός υπάλληλος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -10625,7 +11133,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -10654,7 +11164,9 @@
             "occupations": [
                 "Οινοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B005}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -10712,7 +11224,9 @@
             "occupations": [
                 "Πολιτικός συνταξιούχος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B073,B033}",
             "residenceDate": "[\"1941\",\"1942-1943\"]",
             "residencePeriods": "{1,1}",
@@ -10742,7 +11256,9 @@
                 "Δάσκαλος",
                 "Συνταξιούχος δάσκαλος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B073,B033}",
             "residenceDate": "[\"1941\",\"1942-1943\"]",
             "residencePeriods": "{1,1}",
@@ -10796,7 +11312,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Μπέτσικα",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0021}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -10852,7 +11370,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0021}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -10879,7 +11399,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -10935,7 +11457,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B028,L0021}",
             "residenceDate": "[\"1941\",\"1942\"]",
             "residencePeriods": "{1,1}",
@@ -11051,7 +11575,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0021}",
             "residenceDate": "[\"1941\",\"1942\"]",
             "residencePeriods": "{1,1}",
@@ -11108,7 +11634,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B029}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11137,7 +11665,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B033}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11167,7 +11697,9 @@
             "occupations": [
                 "Καπελού"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B033}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11195,7 +11727,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -11222,7 +11756,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B033}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11252,7 +11788,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11281,7 +11819,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11310,7 +11850,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11320,7 +11862,7 @@
             "relatedFamilies": [
                 "Όσμος Σολομών και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -11341,7 +11883,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B029}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11397,7 +11941,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -11424,7 +11970,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "εγγενήθη νεκρόν",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -11453,7 +12001,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B033}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11483,7 +12033,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11512,7 +12064,9 @@
             "occupations": [
                 "Ράπτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B033}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11540,7 +12094,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -11571,7 +12127,9 @@
                 "Έμπορος",
                 "Ραβίνος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11598,7 +12156,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11627,7 +12187,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11637,7 +12199,7 @@
             "relatedFamilies": [
                 "Όσμος Σολομών και [άγνωστη]",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -11656,7 +12218,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B029}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11685,7 +12249,9 @@
             "occupations": [
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B029}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11714,7 +12280,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B044}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11770,7 +12338,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B045}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11935,7 +12505,9 @@
                 "Άεργος",
                 "Έμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B045}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -11964,7 +12536,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B019}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -11993,7 +12567,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B007,B034}",
             "residenceDate": "[\"1941-1943\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -12024,7 +12600,9 @@
             "occupations": [
                 "Εργάτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B007,B034}",
             "residenceDate": "[\"1941-1943\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -12055,7 +12633,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B007,B034}",
             "residenceDate": "[\"1941-1943\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -12086,7 +12666,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B007,B034}",
             "residenceDate": "[\"1941-1943\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -12117,7 +12699,9 @@
             "occupations": [
                 "Λεμβούχος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B007}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12204,7 +12788,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -12233,7 +12819,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12263,7 +12851,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12293,7 +12883,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12323,7 +12915,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B067}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -12352,7 +12946,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1942\"]",
             "residencePeriods": "{1}",
@@ -12380,7 +12976,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12410,7 +13008,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12549,7 +13149,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Μεταπράτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B075}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -12579,7 +13181,9 @@
             "occupations": [
                 "Ιατρός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B096}",
             "residenceDate": "",
             "residencePeriods": null,
@@ -12920,7 +13524,9 @@
             "occupations": [
                 "Μηχανικός"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -12980,7 +13586,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Άλμπερτ",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -13065,7 +13673,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0005}",
             "residenceDate": "[\"1933\"]",
             "residencePeriods": "{1}",
@@ -13151,7 +13761,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B030}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13181,7 +13793,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B074,L0021}",
             "residenceDate": "[\"1941\",\"1946,1949\"]",
             "residencePeriods": "{1,1}",
@@ -13209,7 +13823,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "επώνυμο γέννησης Μπέτσικα",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0021}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -13238,7 +13854,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{L0021}",
             "residenceDate": "[\"1944\"]",
             "residencePeriods": "{1}",
@@ -13271,7 +13889,9 @@
                 "Οινοπώλης",
                 "Ψαράς"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B074}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -13301,7 +13921,9 @@
             "occupations": [
                 "Εργάτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B074,L0021}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -13330,7 +13952,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "",
             "residenceDate": "",
             "residencePeriods": null,
@@ -13361,7 +13985,9 @@
                 "Ιδιωτικός υπάλληλος",
                 "Μεταπράτης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B030}",
             "residenceDate": "[\"1941-1942\"]",
             "residencePeriods": "{1}",
@@ -13391,7 +14017,9 @@
             "occupations": [
                 "Λαχανοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B038}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13421,7 +14049,9 @@
             "occupations": [
                 "Πλασιέ"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B038,B054}",
             "residenceDate": "[\"1941-1943\",\"1983\"]",
             "residencePeriods": "{1,1}",
@@ -13452,7 +14082,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B038}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13482,7 +14114,9 @@
             "occupations": [
                 "Υπάλληλος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B021,B018}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -13512,7 +14146,9 @@
             "occupations": [
                 "Ράπτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B021,B018}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -13572,7 +14208,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072,B066,B030}",
             "residenceDate": "[\"1939\",\"1941\",\"1943\"]",
             "residencePeriods": "{1,1,1}",
@@ -13600,7 +14238,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B076}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13630,7 +14270,9 @@
             "occupations": [
                 "Νεοκόρος Συναγωγής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072}",
             "residenceDate": "[\"1939\"]",
             "residencePeriods": "{1}",
@@ -13660,7 +14302,9 @@
             "occupations": [
                 "Γυρολόγος/Πλανόδιος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B068}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -13741,7 +14385,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1943\"]",
             "residencePeriods": "{1}",
@@ -13751,7 +14397,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -13772,7 +14418,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13801,7 +14449,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1937,1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13811,7 +14461,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -13830,7 +14480,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1937,1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13840,7 +14492,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -13859,7 +14511,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13869,7 +14523,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -13891,7 +14545,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Υφασματέμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1937,1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13901,7 +14557,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -13923,7 +14579,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Υφασματέμπορος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B019}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13950,7 +14608,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -13960,7 +14620,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -13979,7 +14639,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1937,1941-1943\"]",
             "residencePeriods": "{1}",
@@ -13989,7 +14651,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -14008,7 +14670,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B034}",
             "residenceDate": "[\"1937\"]",
             "residencePeriods": "{1}",
@@ -14018,7 +14682,7 @@
             "relatedFamilies": [
                 "Φραγκής Ισαάκ και Ρεβέκκα",
                 "Κοέν Σαούλ και Μπεχόρα",
-"Ελχάις Αβραάμ και Μπόνα"
+                "Ελχάις Αβραάμ και Μπόνα"
             ]
         },
         {
@@ -14344,7 +15008,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B036,B042}",
             "residenceDate": "[\"1941\",\"1942\"]",
             "residencePeriods": "{1,1}",
@@ -14403,7 +15069,9 @@
             "occupations": [
                 "Μαθητής"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14433,7 +15101,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14463,7 +15133,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14496,7 +15168,9 @@
                 "Γυρολόγος/Πλανόδιος",
                 "Φυστικοπώλης"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14526,7 +15200,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14558,7 +15234,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14590,7 +15268,9 @@
             "occupations": [
                 "Μαθήτρια"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B061,B075}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14622,7 +15302,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072}",
             "residenceDate": "[\"1931\"]",
             "residencePeriods": "{1,1}",
@@ -14682,7 +15364,9 @@
             "occupations": [
                 "Γυρολόγος/Πλανόδιος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B072}",
             "residenceDate": "[\"1933\"]",
             "residencePeriods": "{1}",
@@ -14711,7 +15395,9 @@
             "occupations": [
                 "Γυρολόγος/Πλανόδιος"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B087}",
             "residenceDate": "[\"1941\"]",
             "residencePeriods": "{1}",
@@ -14740,7 +15426,9 @@
             "occupations": [
                 "Οικιακά"
             ],
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B087}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
@@ -14767,7 +15455,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B009,B087}",
             "residenceDate": "[\"1941\",\"1943\"]",
             "residencePeriods": "{1,1}",
@@ -14794,7 +15484,9 @@
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
             "occupations": null,
-            "citizenships": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
             "residence": "{B087}",
             "residenceDate": "[\"1941-1943\"]",
             "residencePeriods": "{1}",
