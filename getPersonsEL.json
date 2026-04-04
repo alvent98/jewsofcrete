@@ -1085,6 +1085,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0542",
+            "firstname": "Λεών",
+            "lastnames": [
+                "Ανάφ"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1889,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Έμπορος"
+            ],
+            "citizenships": null,
+            "residence": "{B097}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B097\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Κουμ Καπί-Κήπος] (1910)",
+            "relatedFamilies": [
+                ""
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0029",
             "firstname": "Μπέλα",
             "lastnames": [
@@ -2087,6 +2116,64 @@
         },
         {
             "type": "Feature",
+            "id": "P0544",
+            "firstname": "Σάρρα (Σαρίνα)",
+            "lastnames": [
+                "Γαμβάη ή Γκαμπάη"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": "",
+            "birthLocation": null,
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[\"1929\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Μεγάλης Εβραϊκής] (1929)",
+            "relatedFamilies": [
+                "Γαμβάης ή Γκαμπάης Χαΐμ και Ρόζα"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0543",
+            "firstname": "Ιουσούας (Γισούας)",
+            "lastnames": [
+                "Γαμβάης ή Γκαμπάης"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1869,
+            "birthLocation": "Χανιά",
+            "deathDate": 1929,
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Παντοπώλης"
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[\"1929\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Μεγάλης Εβραϊκής] (1929)",
+            "relatedFamilies": [
+                "Γαμβάης ή Γκαμπάης Χαΐμ και Ρόζα"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0530",
             "firstname": "Ματαθίας",
             "lastnames": [
@@ -2776,6 +2863,122 @@
                 "Γανής ή Γκανής Σαμουήλ και Ραχήλ",
                 "Εσκεναζής Μεναχέμ και Σάρρα",
                 "Φράγκος Μάρκος και Ραχήλ"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0547",
+            "firstname": "Αβραάμ",
+            "lastnames": [
+                "Γρασιάνος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1879,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Εμποροϋπάλληλος"
+            ],
+            "citizenships": null,
+            "residence": "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Εβραϊκή γειτονιά] (1910)",
+            "relatedFamilies": [
+                "Γρασιάνος Μωυσής και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0545",
+            "firstname": "Ηλίας",
+            "lastnames": [
+                "Γρασιάνος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1836,
+            "birthLocation": null,
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Εβραϊκή γειτονιά] (1910)",
+            "relatedFamilies": [
+                "Γρασιάνος Μωυσής και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0548",
+            "firstname": "Ηλίας",
+            "lastnames": [
+                "Γρασιάνος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1903,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Εβραϊκή γειτονιά] (1910)",
+            "relatedFamilies": [
+                "Γρασιάνος Μωυσής και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0546",
+            "firstname": "Μωυσής",
+            "lastnames": [
+                "Γρασιάνος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1871,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Υποδηματοποιός"
+            ],
+            "citizenships": null,
+            "residence": "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Εβραϊκή γειτονιά] (1910)",
+            "relatedFamilies": [
+                "Γρασιάνος Μωυσής και [άγνωστη]"
             ]
         },
         {
@@ -7078,6 +7281,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0549",
+            "firstname": "Ηλίας",
+            "lastnames": [
+                "Καβαλιέρος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1875,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Έμπορος"
+            ],
+            "citizenships": null,
+            "residence": "{B091}",
+            "residenceDate": "[\"1904\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B091\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Πλατεία Μαυροβουνίου] (1904)",
+            "relatedFamilies": [
+                "Καβαλιέρος Αβραάμ και Σαρίνα"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0336",
             "firstname": "Μαφάλντα Μαζαλτώφ",
             "lastnames": [
@@ -9116,6 +9348,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0551",
+            "firstname": "Ευτυχία",
+            "lastnames": [
+                "Λεβή"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": 1878,
+            "birthLocation": "Ζάκυνθος",
+            "deathDate": 1930,
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[\"1928-1930\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Μεγάλης) Εβραϊκής] (1928-1930)",
+            "relatedFamilies": [
+                "Λεβής Γιοχανάς και Εσθήρ"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0290",
             "firstname": "Ζαφείρα (Ζαφειρούλα,Φωφώ)",
             "lastnames": [
@@ -9479,6 +9740,66 @@
             "period1residenceName": "-",
             "relatedFamilies": [
                 "Λεβής Μωυσής και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0552",
+            "firstname": "Εδουάρδος Ιωχανάς",
+            "lastnames": [
+                "Λεβής"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1908,
+            "birthLocation": "Χανιά",
+            "deathDate": 1928,
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Χρυσοχόος"
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[\"1928-1930\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Μεγάλης) Εβραϊκής] (1928-1930)",
+            "relatedFamilies": [
+                "Λεβής Γιοχανάς και Εσθήρ"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0550",
+            "firstname": "Ηλίας",
+            "lastnames": [
+                "Λεβής"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1860,
+            "birthLocation": "Κεφαλονιά",
+            "deathDate": 1942,
+            "deathLocation": "Χανιά",
+            "survived": 0,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Άεργος",
+                "Φανοποιός",
+                "Οργανοπαίκτης"
+            ],
+            "citizenships": null,
+            "residence": "{B025,Β084}",
+            "residenceDate": "[\"1928-1930\",\"1941\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\",\"B084\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Μεγάλης) Εβραϊκής] (1928-1930),[Σκούφων 28] (1941)",
+            "relatedFamilies": [
+                "Λεβής Γιοχανάς και Εσθήρ"
             ]
         },
         {
@@ -10075,7 +10396,7 @@
             "id": "P0327",
             "firstname": "Ευγενία (Τζένη)",
             "lastnames": [
-                "Μινέρβο"
+                "Μινέρβου"
             ],
             "gender": "Γυναίκα",
             "birthDate": 1916,
@@ -10107,7 +10428,7 @@
             "id": "P0326",
             "firstname": "Ιουλία (Τζούλι)",
             "lastnames": [
-                "Μινέρβο"
+                "Μινέρβου"
             ],
             "gender": "Γυναίκα",
             "birthDate": 1913,
@@ -10372,6 +10693,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0554",
+            "firstname": "Μάρκος Μαρδοχαίος",
+            "lastnames": [
+                "Μινέρβος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1870,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Έμπορος"
+            ],
+            "citizenships": null,
+            "residence": "",
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": "[]",
+            "period2residence": "[]",
+            "period1residenceName": "[]",
+            "relatedFamilies": [
+                "Μινέρβος Χαΐμ και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0352",
             "firstname": "Μασλάχ",
             "lastnames": [
@@ -10426,6 +10776,35 @@
             "period1residence": "[\"B090\"]",
             "period2residence": "[]",
             "period1residenceName": "Δημοτικού Κήπου (1934,1938)",
+            "relatedFamilies": [
+                "Μινέρβος Χαΐμ και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0556",
+            "firstname": "Μωυσής",
+            "lastnames": [
+                "Μινέρβος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1895,
+            "birthLocation": "Χανιά",
+            "deathDate": 1930,
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Μεγάλης) Εβραϊκής]",
             "relatedFamilies": [
                 "Μινέρβος Χαΐμ και [άγνωστη]"
             ]
@@ -10852,6 +11231,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0555",
+            "firstname": "Μαζαλτώφ Ελπίδα",
+            "lastnames": [
+                "Μινέρβου"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": 1866,
+            "birthLocation": null,
+            "deathDate": 1926,
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B012}",
+            "residenceDate": "[\"1926\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B012\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Χαλέπας] (1926)",
+            "relatedFamilies": [
+                "Μινέρβος Χαΐμ και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0356",
             "firstname": "Μαργαρίτα",
             "lastnames": [
@@ -10879,6 +11287,35 @@
             "period1residenceName": "Κεντρική 58 (1928,1937,1941-1943)",
             "relatedFamilies": [
                 "Μινέρβος Χαΐμ και [άγνωστη]",
+                "Μινέρβος Ιωσήφ και Σιμχά"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0553",
+            "firstname": "Ραχήλ",
+            "lastnames": [
+                "Μινέρβου"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": 1883,
+            "birthLocation": "Χανιά",
+            "deathDate": 1928,
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Οικιακά"
+            ],
+            "citizenships": null,
+            "residence": "{B014}",
+            "residenceDate": "[\"1928\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B014\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Κεντρική 58] (1928)",
+            "relatedFamilies": [
                 "Μινέρβος Ιωσήφ και Σιμχά"
             ]
         },
@@ -12520,6 +12957,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0557",
+            "firstname": "Αβραάμ Αλέξανδρος",
+            "lastnames": [
+                "Πήγχας"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1876,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 1,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Μεταπράτης"
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Μεγάλης) Εβραϊκής] (1910)",
+            "relatedFamilies": [
+                "Πήγχας Μωυσής και Σάρρα"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0420",
             "firstname": "Αιμιλία",
             "lastnames": [
@@ -12716,60 +13182,147 @@
         },
         {
             "type": "Feature",
-            "id": "P0253",
-            "firstname": "Παυλίνα",
+            "id": "P0560",
+            "firstname": "Αβραάμ",
             "lastnames": [
-                "Σάρδα"
+                "Σαλέμ"
             ],
-            "gender": "Γυναίκα",
-            "birthDate": 1902,
+            "gender": "Άνδρας",
+            "birthDate": 1895,
             "birthLocation": "Χανιά",
-            "deathDate": "",
-            "deathLocation": "Αλεξάνδρεια",
+            "deathDate": 1957,
+            "deathLocation": "ΗΠΑ",
             "survived": 1,
             "livedInCreteAfterWW2": 0,
-            "publicComments": "επώνυμο γέννησης Κοέν, θάνατος μετά το 1947",
-            "occupations": null,
-            "citizenships": [
-                "Ελληνική"
+            "publicComments": "",
+            "occupations": [
+                null
             ],
-            "residence": "{L0011}",
-            "residenceDate": "[\"1947\"]",
+            "citizenships": null,
+            "residence": null,
+            "residenceDate": "",
             "residencePeriods": "{1}",
-            "period1residence": "[\"L0011\"]",
+            "period1residence": null,
             "period2residence": "[]",
-            "period1residenceName": "-",
+            "period1residenceName": null,
             "relatedFamilies": [
-                "Κοέν Αλβέρτος και [άγνωστη]",
-                "Παπουσάδος Μασλάχ και [άγνωστη]"
+                "Σαλέμ Ισαάκ και Νίνα"
             ]
         },
         {
             "type": "Feature",
-            "id": "P0254",
-            "firstname": "Μωυσής",
+            "id": "P0562",
+            "firstname": "Ηλίας",
             "lastnames": [
-                "Σάρδας"
+                "Σαλέμ"
             ],
             "gender": "Άνδρας",
-            "birthDate": "",
+            "birthDate": 1909,
             "birthLocation": "Χανιά",
             "deathDate": "",
-            "deathLocation": "Αλεξάνδρεια",
+            "deathLocation": null,
             "survived": 2,
             "livedInCreteAfterWW2": 0,
             "publicComments": "",
-            "occupations": null,
+            "occupations": [
+                null
+            ],
             "citizenships": null,
-            "residence": "",
+            "residence": null,
             "residenceDate": "",
-            "residencePeriods": null,
-            "period1residence": "[]",
+            "residencePeriods": "{1}",
+            "period1residence": null,
             "period2residence": "[]",
-            "period1residenceName": "-",
+            "period1residenceName": null,
             "relatedFamilies": [
-                "Κοέν Αλβέρτος και [άγνωστη]",
-                "Παπουσάδος Μασλάχ και [άγνωστη]"
+                "Σαλέμ Ισαάκ και Νίνα"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0558",
+            "firstname": "Ισαάκ",
+            "lastnames": [
+                "Σαλέμ"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1871,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Φαρμακοποιός"
+            ],
+            "citizenships": null,
+            "residence": "{B024}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B024\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Κανεβάρω] (1910)",
+            "relatedFamilies": [
+                "Σαλέμ Ισαάκ και Νίνα"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0559",
+            "firstname": "Νίνα",
+            "lastnames": [
+                "Σαλέμ"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": "",
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": "{B024}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B024\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Κανεβάρω] (1910)",
+            "relatedFamilies": [
+                "Σαλέμ Ισαάκ και Νίνα"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0561",
+            "firstname": "Σολομών",
+            "lastnames": [
+                "Σαλέμ"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1908,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                null
+            ],
+            "citizenships": null,
+            "residence": null,
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": null,
+            "period2residence": "[]",
+            "period1residenceName": null,
+            "relatedFamilies": [
+                "Σαλέμ Ισαάκ και Νίνα"
             ]
         },
         {
@@ -13192,6 +13745,93 @@
             "period1residenceName": "Στρατιωτικόν νοσοκομείον",
             "relatedFamilies": [
                 ""
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0563",
+            "firstname": "Τσίτσος Λεών",
+            "lastnames": [
+                "Σαλφατής"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1869,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Έμπορος"
+            ],
+            "citizenships": null,
+            "residence": "{B099}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B099\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Γειτονιά Σπλάντζιας] (1910)",
+            "relatedFamilies": [
+                "Σαλφατής Αβραάμ και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0253",
+            "firstname": "Παυλίνα",
+            "lastnames": [
+                "Σάρδα"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": 1902,
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": "Αλεξάνδρεια",
+            "survived": 1,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "επώνυμο γέννησης Κοέν, θάνατος μετά το 1947",
+            "occupations": null,
+            "citizenships": [
+                "Ελληνική"
+            ],
+            "residence": "{L0011}",
+            "residenceDate": "[\"1947\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"L0011\"]",
+            "period2residence": "[]",
+            "period1residenceName": "-",
+            "relatedFamilies": [
+                "Κοέν Αλβέρτος και [άγνωστη]",
+                "Παπουσάδος Μασλάχ και [άγνωστη]"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0254",
+            "firstname": "Μωυσής",
+            "lastnames": [
+                "Σάρδας"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": "",
+            "birthLocation": "Χανιά",
+            "deathDate": "",
+            "deathLocation": "Αλεξάνδρεια",
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": null,
+            "citizenships": null,
+            "residence": "",
+            "residenceDate": "",
+            "residencePeriods": null,
+            "period1residence": "[]",
+            "period2residence": "[]",
+            "period1residenceName": "-",
+            "relatedFamilies": [
+                "Κοέν Αλβέρτος και [άγνωστη]",
+                "Παπουσάδος Μασλάχ και [άγνωστη]"
             ]
         },
         {
@@ -14687,6 +15327,35 @@
         },
         {
             "type": "Feature",
+            "id": "P0565",
+            "firstname": "Αιμιλία",
+            "lastnames": [
+                "Φράγκο"
+            ],
+            "gender": "Γυναίκα",
+            "birthDate": 1876,
+            "birthLocation": "Χανιά",
+            "deathDate": 1928,
+            "deathLocation": "Χανιά",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Οικιακά"
+            ],
+            "citizenships": null,
+            "residence": "{B025}",
+            "residenceDate": "[\"1928\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Μεγάλης) Εβραϊκής] (1928)",
+            "relatedFamilies": [
+                "Φράγκος Μάρκος και Ραχήλ"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0477",
             "firstname": "Αλέγρα",
             "lastnames": [
@@ -14957,6 +15626,36 @@
             "relatedFamilies": [
                 "Φράγκος Ιακώβ και Ρόζα",
                 "Σεζάνας Ματαθίας και Ρεβέκκα"
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "P0564",
+            "firstname": "Μωυσής",
+            "lastnames": [
+                "Φράγκος"
+            ],
+            "gender": "Άνδρας",
+            "birthDate": 1860,
+            "birthLocation": "Χανιά",
+            "deathDate": 1941,
+            "deathLocation": "Χανιά",
+            "survived": 0,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [
+                "Εμποροϋπάλληλος",
+                "Ιδιωτικός υπάλληλος"
+            ],
+            "citizenships": null,
+            "residence": "{B032}",
+            "residenceDate": "[\"1941\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B032\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Κονδυλάκη 14] (1941)",
+            "relatedFamilies": [
+                "Φράγκος Μάρκος και Ραχήλ"
             ]
         },
         {

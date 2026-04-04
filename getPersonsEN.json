@@ -631,6 +631,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0542",
+            "firstname": "Leon",
+            "lastnames": [
+                "Anaf"
+            ],
+            "gender": "Male",
+            "birthDate": 1889,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Merchant"],
+            "citizenships": null,
+            "residence":  "{B097}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B097\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Kum Kapi-Public Garden] (1910)",
+            "relatedFamilies": [
+                "Anaf Avraam and [unknown]"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0014",
             "firstname": "Avraam Alvertos (Alber)",
             "lastnames": [
@@ -5094,6 +5121,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0565",
+            "firstname": "Emilia",
+            "lastnames": [
+                "Frango"
+            ],
+            "gender": "Female",
+            "birthDate": 1876,
+            "birthLocation": "Hania",
+            "deathDate": 1928,
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Housewife"],
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "[\"1928\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1928)",
+            "relatedFamilies": [
+                "Frangos Markos and Rahil"
+            ]
+        },
+        {
+            "type": "Feature",
             "id": "P0470",
             "firstname": "Fernandi",
             "lastnames": [
@@ -5337,6 +5391,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0564",
+            "firstname": "Moisis",
+            "lastnames": [
+                "Frangos"
+            ],
+            "gender": "Male",
+            "birthDate": 1860,
+            "birthLocation": "Hania",
+            "deathDate": 1941,
+            "deathLocation": "Hania",
+            "survived": 0,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Merchant's clerk","Private employee"],
+            "citizenships": null,
+            "residence":  "{B032}",
+            "residenceDate": "[\"1941\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B032\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Kondilaki 14] (1941)",
+            "relatedFamilies": [
+                "Frangos Markos and Rahil"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0468",
             "firstname": "Sabaton (Savaton)",
             "lastnames": [
@@ -5368,6 +5449,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0543",
+            "firstname": "Sarra (Sarina)",
+            "lastnames": [
+                "Gamvai or Gabai"
+            ],
+            "gender": "Female",
+            "birthDate": "",
+            "birthLocation": null,
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": null,
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "[\"1929\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1929)",
+            "relatedFamilies": [
+                "Gamvais or Gabais Haim and Roza"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0529",
             "firstname": "Haim",
             "lastnames": [
@@ -5393,6 +5501,33 @@
                 "Gamvais or Gabais Haim and Roza"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0543",
+            "firstname": "Iousouas (Yisouas)",
+            "lastnames": [
+                "Gamvais or Gabais"
+            ],
+            "gender": "Male",
+            "birthDate": 1869,
+            "birthLocation": "Hania",
+            "deathDate": 1929,
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Grocer"],
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "[\"1929\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1929)",
+            "relatedFamilies": [
+                "Gamvais or Gabais Haim and Roza"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0530",
@@ -6059,6 +6194,114 @@
                 "Ganis Samouil and Rahil"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0547",
+            "firstname": "Avraam",
+            "lastnames": [
+                "Grasianos"
+            ],
+            "gender": "Male",
+            "birthDate": 1879,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Merchant's clerk"],
+            "citizenships": null,
+            "residence":  "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Jewish neighbourhood] (1910)",
+            "relatedFamilies": [
+                "Grasianos Moisis and [unknown]"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0545",
+            "firstname": "Ilias",
+            "lastnames": [
+                "Grasianos"
+            ],
+            "gender": "Male",
+            "birthDate": 1836,
+            "birthLocation": null,
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": null,
+            "citizenships": null,
+            "residence":  "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Jewish neighbourhood] (1910)",
+            "relatedFamilies": [
+                "Grasianos Moisis and [unknown]"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0548",
+            "firstname": "Ilias",
+            "lastnames": [
+                "Grasianos"
+            ],
+            "gender": "Male",
+            "birthDate": 1903,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": null,
+            "citizenships": null,
+            "residence":  "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Jewish neighbourhood] (1910)",
+            "relatedFamilies": [
+                "Grasianos Moisis and [unknown]"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0546",
+            "firstname": "Moisis",
+            "lastnames": [
+                "Grasianos"
+            ],
+            "gender": "Male",
+            "birthDate": 1871,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Shoe maker"],
+            "citizenships": null,
+            "residence":  "{B098}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B098\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Jewish neighbourhood] (1910)",
+            "relatedFamilies": [
+                "Grasianos Moisis and [unknown]"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0006",
@@ -8206,6 +8449,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0549",
+            "firstname": "Ilias",
+            "lastnames": [
+                "Kavalieros"
+            ],
+            "gender": "Male",
+            "birthDate": 1875,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Merchant"],
+            "citizenships": null,
+            "residence":  "{B091}",
+            "residenceDate": "[\"1904\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B091\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Platia Mavrovouniou] (1904)",
+            "relatedFamilies": [
+                "Kavalieros Avraam and Sarina"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0249",
             "firstname": "Alfredos",
             "lastnames": [
@@ -10151,6 +10421,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0551",
+            "firstname": "Eftihia",
+            "lastnames": [
+                "Levi"
+            ],
+            "gender": "Female",
+            "birthDate": 1878,
+            "birthLocation": "Zakynthos",
+            "deathDate": 1930,
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "[\"1928-1930\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1928-1930)",
+            "relatedFamilies": [
+                "Levis Yiohanas and Esthir"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0334",
             "firstname": "Eleonora Perla",
             "lastnames": [
@@ -10613,6 +10910,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0552",
+            "firstname": "Edouardos Iohanas",
+            "lastnames": [
+                "Levis"
+            ],
+            "gender": "Male",
+            "birthDate": 1908,
+            "birthLocation": "Hania",
+            "deathDate": 1928,
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Goldsmith"],
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "[\"1928-1930\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1928-1930)",
+            "relatedFamilies": [
+                "Levis Yiohanas and Esthir"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0288",
             "firstname": "Iakov",
             "lastnames": [
@@ -10643,6 +10967,33 @@
                 "Ishakis Daniil and Zafira"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0550",
+            "firstname": "Ilias",
+            "lastnames": [
+                "Levis"
+            ],
+            "gender": "Male",
+            "birthDate": 1860,
+            "birthLocation": "Kefalonia",
+            "deathDate": 1942,
+            "deathLocation": "Hania",
+            "survived": 0,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Unemployed","Tinsmith","Instrumentalist"],
+            "citizenships": null,
+            "residence":  "{B025,B084}",
+            "residenceDate": "[\"1928-1930\",\"1941\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\",\"B084\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1928-1930),[Skoufon 28] (1941)",
+            "relatedFamilies": [
+                "Levis Yiohanas and Esthir"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0309",
@@ -11199,6 +11550,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0554",
+            "firstname": "Markos Mardoheos",
+            "lastnames": [
+                "Minervos"
+            ],
+            "gender": "Male",
+            "birthDate": 1870,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Merchant"],
+            "citizenships": null,
+            "residence":  "",
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": "[]",
+            "period2residence": "[]",
+            "period1residenceName": "",
+            "relatedFamilies": [
+                "Minervos Haim and [unknown]"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0352",
             "firstname": "Maslah",
             "lastnames": [
@@ -11257,6 +11635,33 @@
                 "Minervos Haim and [unknown]"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0556",
+            "firstname": "Moisis",
+            "lastnames": [
+                "Minervos"
+            ],
+            "gender": "Male",
+            "birthDate": 1895,
+            "birthLocation": "Hania",
+            "deathDate": 1930,
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis]",
+            "relatedFamilies": [
+                "Minervos Haim and [unknown]"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0350",
@@ -11740,6 +12145,60 @@
                 "Minervos Iosif and Simha"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0555",
+            "firstname": "Mazaltof Elpida",
+            "lastnames": [
+                "Minervou"
+            ],
+            "gender": "Female",
+            "birthDate": 1866,
+            "birthLocation": null,
+            "deathDate": 1926,
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  "{B012}",
+            "residenceDate": "[\"1926\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B012\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Halepas] (1926)",
+            "relatedFamilies": [
+                "Minervos Haim and [unknown]"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0553",
+            "firstname": "Rahil",
+            "lastnames": [
+                "Minervou"
+            ],
+            "gender": "Female",
+            "birthDate": 1883,
+            "birthLocation": "Hania",
+            "deathDate": 1928,
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Housewife"],
+            "citizenships": null,
+            "residence":  "{B014}",
+            "residenceDate": "[\"1928\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B014\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Kentriki 58] (1928)",
+            "relatedFamilies": [
+                "Minervos Iosif and Simha"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0342",
@@ -13443,6 +13902,33 @@
         },
         {
             "type": "Feature",
+            "id": "P0557",
+            "firstname": "Avraam Alexandros",
+            "lastnames": [
+                "Pinhas"
+            ],
+            "gender": "Male",
+            "birthDate": 1876,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 1,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Retailer"],
+            "citizenships": null,
+            "residence":  "{B025}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B025\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[(Megalis) Evraikis] (1910)",
+            "relatedFamilies": [
+                "Pinhas Moisis and Sarra"
+            ]
+          },
+        {
+            "type": "Feature",
             "id": "P0420",
             "firstname": "Emilia",
             "lastnames": [
@@ -13637,6 +14123,141 @@
                 "Fortis Solomon and Astro"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0560",
+            "firstname": "Avraam",
+            "lastnames": [
+                "Salem"
+            ],
+            "gender": "Male",
+            "birthDate": 1895,
+            "birthLocation": "Hania",
+            "deathDate": 1957,
+            "deathLocation": "USA",
+            "survived": 1,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  null,
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": null,
+            "period2residence": "[]",
+            "period1residenceName": null,
+            "relatedFamilies": [
+                "Salem Isaak and Nina"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0562",
+            "firstname": "Ilias",
+            "lastnames": [
+                "Salem"
+            ],
+            "gender": "Male",
+            "birthDate": 1909,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  null,
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": null,
+            "period2residence": "[]",
+            "period1residenceName": null,
+            "relatedFamilies": [
+                "Salem Isaak and Nina"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0558",
+            "firstname": "Isaak",
+            "lastnames": [
+                "Salem"
+            ],
+            "gender": "Male",
+            "birthDate": 1871,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Pharmacist"],
+            "citizenships": null,
+            "residence":  "{B024}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B024\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Kanevaro] (1910)",
+            "relatedFamilies": [
+                "Salem Isaak and Nina"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0559",
+            "firstname": "Nina",
+            "lastnames": [
+                "Salem"
+            ],
+            "gender": "Female",
+            "birthDate": "",
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  "{B024}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B024\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Kanevaro] (1910)",
+            "relatedFamilies": [
+                "Salem Isaak and Nina"
+            ]
+          },
+          {
+            "type": "Feature",
+            "id": "P0561",
+            "firstname": "Solomon",
+            "lastnames": [
+                "Salem"
+            ],
+            "gender": "Male",
+            "birthDate": 1908,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": null,
+            "survived": 2,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": [null],
+            "citizenships": null,
+            "residence":  null,
+            "residenceDate": "",
+            "residencePeriods": "{1}",
+            "period1residence": null,
+            "period2residence": "[]",
+            "period1residenceName": null,
+            "relatedFamilies": [
+                "Salem Isaak and Nina"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0424",
@@ -14059,6 +14680,33 @@
                 "Elhais Isaak and Rahil"
             ]
         },
+        {
+            "type": "Feature",
+            "id": "P0563",
+            "firstname": "Tsitsos Leon",
+            "lastnames": [
+                "Salfatis"
+            ],
+            "gender": "Male",
+            "birthDate": 1869,
+            "birthLocation": "Hania",
+            "deathDate": "",
+            "deathLocation": "Hania",
+            "survived": 3,
+            "livedInCreteAfterWW2": 0,
+            "publicComments": "",
+            "occupations": ["Merchant"],
+            "citizenships": null,
+            "residence":  "{B099}",
+            "residenceDate": "[\"1910\"]",
+            "residencePeriods": "{1}",
+            "period1residence": "[\"B099\"]",
+            "period2residence": "[]",
+            "period1residenceName": "[Splantzia neighbourhood] (1910)",
+            "relatedFamilies": [
+                "Salfatis Avraam and [unknown]"
+            ]
+          },
         {
             "type": "Feature",
             "id": "P0253",
