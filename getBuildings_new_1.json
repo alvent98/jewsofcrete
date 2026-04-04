@@ -1530,6 +1530,56 @@
                 "personsEL": "Σαλβατώρ Σαλφατής <br>",
                 "personsEN": "Salvator Salfatis <br>"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.026917,35.514370
+                ]
+            },
+            "properties": {
+                "id": "B097",
+                "addressEL": "Κουμ Καπί-Κήπος",
+                "addressEN": "Kum Kapi-Public Garden",
+                "personsEL": "Λεών Ανάφ <br>",
+                "personsEN": "Leon Anaf <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.016939,
+                    35.516227
+                ]
+            },
+            "properties": {
+                "id": "B098",
+                "addressEL": "Εβραϊκή γειτονιά",
+                "addressEN": "Jewish neighbourhood",
+                "personsEL": "Ηλίας Γρασιάνος <br>Μωυσής Γρασιάνος <br>Αβραάμ Γρασιάνος <br>Ηλίας Γρασιάνος <br>",
+                "personsEN": "Ilias Grasianos <br>Moisis Grasianos <br>Avraam Grasianos <br>Ilias Grasianos <br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.021464,
+                    35.516531
+                ]
+            },
+            "properties": {
+                "id": "B099",
+                "addressEL": "Γειτονιά Σπλάντζιας",
+                "addressEN": "Splantzia neighbourhood",
+                "personsEL": "Τσίτσος Λεών Σαλφατής <br>",
+                "personsEN": "Tsitsos Leon Salfatis <br>"
+            }
         }
     ]
 }
